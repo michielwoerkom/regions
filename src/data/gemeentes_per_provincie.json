@@ -1,0 +1,2132 @@
+[
+  {
+    "Gemeente": "Aa en Hunze",
+    "CBS": 1680,
+    "Provincies": "Drenthe",
+    "Inwoneraantal": 488611
+  },
+  {
+    "Gemeente": "Aalsmeer",
+    "CBS": "0358",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Aalten",
+    "CBS": "0197",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Achtkarspelen",
+    "CBS": "0059",
+    "Provincies": "Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Alblasserdam",
+    "CBS": "0482",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Albrandswaard",
+    "CBS": "0613",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Alkmaar",
+    "CBS": "0361",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Almelo",
+    "CBS": "0141",
+    "Provincies": "Overijssel",
+    "Inwoneraantal": 1140659
+  },
+  {
+    "Gemeente": "Almere",
+    "CBS": "0034",
+    "Provincies": "Flevoland",
+    "Inwoneraantal": 401503
+  },
+  {
+    "Gemeente": "Alphen aan den Rijn",
+    "CBS": "0484",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Alphen-Chaam",
+    "CBS": 1723,
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Altena",
+    "CBS": 1959,
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Ameland",
+    "CBS": "0060",
+    "Provincies": "Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Amersfoort",
+    "CBS": "0307",
+    "Provincies": "Utrecht",
+    "Inwoneraantal": 1263509
+  },
+  {
+    "Gemeente": "Amstelveen",
+    "CBS": "0362",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Amsterdam",
+    "CBS": "0363",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Apeldoorn",
+    "CBS": "0200",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Appingedam",
+    "CBS": "0003",
+    "Provincies": "Groningen",
+    "Inwoneraantal": 584104
+  },
+  {
+    "Gemeente": "Arnhem",
+    "CBS": "0202",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Assen",
+    "CBS": "0106",
+    "Provincies": "Drenthe",
+    "Inwoneraantal": 488611
+  },
+  {
+    "Gemeente": "Asten",
+    "CBS": "0743",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Baarle-Nassau",
+    "CBS": "0744",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Baarn",
+    "CBS": "0308",
+    "Provincies": "Utrecht",
+    "Inwoneraantal": 1263509
+  },
+  {
+    "Gemeente": "Barendrecht",
+    "CBS": "0489",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Barneveld",
+    "CBS": "0203",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Beek",
+    "CBS": "0888",
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Beekdaelen",
+    "CBS": 1954,
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Beemster",
+    "CBS": "0370",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Beesel",
+    "CBS": "0889",
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Berg en Dal",
+    "CBS": 1945,
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Bergeijk",
+    "CBS": 1724,
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Bergen (L)",
+    "CBS": "0893",
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Bergen (NH)",
+    "CBS": "0373",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Bergen op Zoom",
+    "CBS": "0748",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Berkelland",
+    "CBS": 1859,
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Bernheze",
+    "CBS": 1721,
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Best",
+    "CBS": "0753",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Beuningen",
+    "CBS": "0209",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Beverwijk",
+    "CBS": "0375",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Bladel",
+    "CBS": 1728,
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Blaricum",
+    "CBS": "0376",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Bloemendaal",
+    "CBS": "0377",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Bodegraven-Reeuwijk",
+    "CBS": 1901,
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Boekel",
+    "CBS": "0755",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Borger-Odoorn",
+    "CBS": 1681,
+    "Provincies": "Drenthe",
+    "Inwoneraantal": 488611
+  },
+  {
+    "Gemeente": "Borne",
+    "CBS": "0147",
+    "Provincies": "Overijssel",
+    "Inwoneraantal": 1140659
+  },
+  {
+    "Gemeente": "Borsele",
+    "CBS": "0654",
+    "Provincies": "Zeeland",
+    "Inwoneraantal": 380717
+  },
+  {
+    "Gemeente": "Boxmeer",
+    "CBS": "0756",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Boxtel",
+    "CBS": "0757",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Breda",
+    "CBS": "0758",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Brielle",
+    "CBS": "0501",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Bronckhorst",
+    "CBS": 1876,
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Brummen",
+    "CBS": "0213",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Brunssum",
+    "CBS": "0899",
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Bunnik",
+    "CBS": "0312",
+    "Provincies": "Utrecht",
+    "Inwoneraantal": 1263509
+  },
+  {
+    "Gemeente": "Bunschoten",
+    "CBS": "0313",
+    "Provincies": "Utrecht",
+    "Inwoneraantal": 1263509
+  },
+  {
+    "Gemeente": "Buren",
+    "CBS": "0214",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Capelle aan den IJssel",
+    "CBS": "0502",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Castricum",
+    "CBS": "0383",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Coevorden",
+    "CBS": "0109",
+    "Provincies": "Drenthe",
+    "Inwoneraantal": 488611
+  },
+  {
+    "Gemeente": "Cranendonck",
+    "CBS": 1706,
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Cuijk",
+    "CBS": 1684,
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Culemborg",
+    "CBS": "0216",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Dalfsen",
+    "CBS": "0148",
+    "Provincies": "Overijssel",
+    "Inwoneraantal": 1140659
+  },
+  {
+    "Gemeente": "Dantumadiel",
+    "CBS": 1891,
+    "Provincies": "Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "De Bilt",
+    "CBS": "0310",
+    "Provincies": "Utrecht",
+    "Inwoneraantal": 1263509
+  },
+  {
+    "Gemeente": "De Fryske Marren",
+    "CBS": 1940,
+    "Provincies": "Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "De Ronde Venen",
+    "CBS": "0736",
+    "Provincies": "Utrecht",
+    "Inwoneraantal": 1263509
+  },
+  {
+    "Gemeente": "De Wolden",
+    "CBS": 1690,
+    "Provincies": "Drenthe",
+    "Inwoneraantal": 488611
+  },
+  {
+    "Gemeente": "Delft",
+    "CBS": "0503",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Delfzijl",
+    "CBS": "0010",
+    "Provincies": "Groningen",
+    "Inwoneraantal": 584104
+  },
+  {
+    "Gemeente": "Den Helder",
+    "CBS": "0400",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Deurne",
+    "CBS": "0762",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Deventer",
+    "CBS": "0150",
+    "Provincies": "Overijssel",
+    "Inwoneraantal": 1140659
+  },
+  {
+    "Gemeente": "Diemen",
+    "CBS": "0384",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Dinkelland",
+    "CBS": 1774,
+    "Provincies": "Overijssel",
+    "Inwoneraantal": 1140659
+  },
+  {
+    "Gemeente": "Doesburg",
+    "CBS": "0221",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Doetinchem",
+    "CBS": "0222",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Dongen",
+    "CBS": "0766",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Dordrecht",
+    "CBS": "0505",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Drechterland",
+    "CBS": "0498",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Drimmelen",
+    "CBS": 1719,
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Dronten",
+    "CBS": "0303",
+    "Provincies": "Flevoland",
+    "Inwoneraantal": 401503
+  },
+  {
+    "Gemeente": "Druten",
+    "CBS": "0225",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Duiven",
+    "CBS": "0226",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Echt-Susteren",
+    "CBS": 1711,
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Edam-Volendam",
+    "CBS": "0385",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Ede",
+    "CBS": "0228",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Eemnes",
+    "CBS": "0317",
+    "Provincies": "Utrecht",
+    "Inwoneraantal": 1263509
+  },
+  {
+    "Gemeente": "Eersel",
+    "CBS": "0770",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Eijsden-Margraten",
+    "CBS": 1903,
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Eindhoven",
+    "CBS": "0772",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Elburg",
+    "CBS": "0230",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Emmen",
+    "CBS": "0114",
+    "Provincies": "Drenthe",
+    "Inwoneraantal": 488611
+  },
+  {
+    "Gemeente": "Enkhuizen",
+    "CBS": "0388",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Enschede",
+    "CBS": "0153",
+    "Provincies": "Overijssel",
+    "Inwoneraantal": 1140659
+  },
+  {
+    "Gemeente": "Epe",
+    "CBS": "0232",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Ermelo",
+    "CBS": "0233",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Etten-Leur",
+    "CBS": "0777",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Geertruidenberg",
+    "CBS": "0779",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Geldrop-Mierlo",
+    "CBS": 1771,
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Gemert-Bakel",
+    "CBS": 1652,
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Gennep",
+    "CBS": "0907",
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Gilze en Rijen",
+    "CBS": "0784",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Goeree-Overflakkee",
+    "CBS": 1924,
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Goes",
+    "CBS": "0664",
+    "Provincies": "Zeeland",
+    "Inwoneraantal": 380717
+  },
+  {
+    "Gemeente": "Goirle",
+    "CBS": "0785",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Gooise Meren",
+    "CBS": 1942,
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Gorinchem",
+    "CBS": "0512",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Gouda",
+    "CBS": "0513",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Grave",
+    "CBS": "0786",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "'s-Gravenhage",
+    "CBS": "0518",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Groningen",
+    "CBS": "0014",
+    "Provincies": "Groningen",
+    "Inwoneraantal": 584104
+  },
+  {
+    "Gemeente": "Gulpen-Wittem",
+    "CBS": 1729,
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Haaksbergen",
+    "CBS": "0158",
+    "Provincies": "Overijssel",
+    "Inwoneraantal": 1140659
+  },
+  {
+    "Gemeente": "Haaren",
+    "CBS": "0788",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Haarlem",
+    "CBS": "0392",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Haarlemmermeer",
+    "CBS": "0394",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Halderberge",
+    "CBS": 1655,
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Hardenberg",
+    "CBS": "0160",
+    "Provincies": "Overijssel",
+    "Inwoneraantal": 1140659
+  },
+  {
+    "Gemeente": "Harderwijk",
+    "CBS": "0243",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Hardinxveld-Giessendam",
+    "CBS": "0523",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Harlingen",
+    "CBS": "0072",
+    "Provincies": "Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Hattem",
+    "CBS": "0244",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Heemskerk",
+    "CBS": "0396",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Heemstede",
+    "CBS": "0397",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Heerde",
+    "CBS": "0246",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Heerenveen",
+    "CBS": "0074",
+    "Provincies": "Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Heerhugowaard",
+    "CBS": "0398",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Heerlen",
+    "CBS": "0917",
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Heeze-Leende",
+    "CBS": 1658,
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Heiloo",
+    "CBS": "0399",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Hellendoorn",
+    "CBS": "0163",
+    "Provincies": "Overijssel",
+    "Inwoneraantal": 1140659
+  },
+  {
+    "Gemeente": "Hellevoetsluis",
+    "CBS": "0530",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Helmond",
+    "CBS": "0794",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Hendrik-Ido-Ambacht",
+    "CBS": "0531",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Hengelo (O)",
+    "CBS": "0164",
+    "Provincies": "Overijssel",
+    "Inwoneraantal": 1140659
+  },
+  {
+    "Gemeente": "'s-Hertogenbosch",
+    "CBS": "0796",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Het Hogeland",
+    "CBS": 1966,
+    "Provincies": "Groningen",
+    "Inwoneraantal": 584104
+  },
+  {
+    "Gemeente": "Heumen",
+    "CBS": "0252",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Heusden",
+    "CBS": "0797",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Hillegom",
+    "CBS": "0534",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Hilvarenbeek",
+    "CBS": "0798",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Hilversum",
+    "CBS": "0402",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Hoeksche Waard",
+    "CBS": 1963,
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Hof van Twente",
+    "CBS": 1735,
+    "Provincies": "Overijssel",
+    "Inwoneraantal": 1140659
+  },
+  {
+    "Gemeente": "Hollands Kroon",
+    "CBS": 1911,
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Hoogeveen",
+    "CBS": "0118",
+    "Provincies": "Drenthe",
+    "Inwoneraantal": 488611
+  },
+  {
+    "Gemeente": "Hoorn",
+    "CBS": "0405",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Horst aan de Maas",
+    "CBS": 1507,
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Houten",
+    "CBS": "0321",
+    "Provincies": "Utrecht",
+    "Inwoneraantal": 1263509
+  },
+  {
+    "Gemeente": "Huizen",
+    "CBS": "0406",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Hulst",
+    "CBS": "0677",
+    "Provincies": "Zeeland",
+    "Inwoneraantal": 380717
+  },
+  {
+    "Gemeente": "IJsselstein",
+    "CBS": "0353",
+    "Provincies": "Utrecht",
+    "Inwoneraantal": 1263509
+  },
+  {
+    "Gemeente": "Kaag en Braassem",
+    "CBS": 1884,
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Kampen",
+    "CBS": "0166",
+    "Provincies": "Overijssel",
+    "Inwoneraantal": 1140659
+  },
+  {
+    "Gemeente": "Kapelle",
+    "CBS": "0678",
+    "Provincies": "Zeeland",
+    "Inwoneraantal": 380717
+  },
+  {
+    "Gemeente": "Katwijk",
+    "CBS": "0537",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Kerkrade",
+    "CBS": "0928",
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Koggenland",
+    "CBS": 1598,
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Krimpen aan den IJssel",
+    "CBS": "0542",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Krimpenerwaard",
+    "CBS": 1931,
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Laarbeek",
+    "CBS": 1659,
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Landerd",
+    "CBS": 1685,
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Landgraaf",
+    "CBS": "0882",
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Landsmeer",
+    "CBS": "0415",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Langedijk",
+    "CBS": "0416",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Lansingerland",
+    "CBS": 1621,
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Laren",
+    "CBS": "0417",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Leeuwarden",
+    "CBS": "0080",
+    "Provincies": "Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Leiden",
+    "CBS": "0546",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Leiderdorp",
+    "CBS": "0547",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Leidschendam-Voorburg",
+    "CBS": 1916,
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Lelystad",
+    "CBS": "0995",
+    "Provincies": "Flevoland",
+    "Inwoneraantal": 401503
+  },
+  {
+    "Gemeente": "Leudal",
+    "CBS": 1640,
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Leusden",
+    "CBS": "0327",
+    "Provincies": "Utrecht",
+    "Inwoneraantal": 1263509
+  },
+  {
+    "Gemeente": "Lingewaard",
+    "CBS": 1705,
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Lisse",
+    "CBS": "0553",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Lochem",
+    "CBS": "0262",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Loon op Zand",
+    "CBS": "0809",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Lopik",
+    "CBS": "0331",
+    "Provincies": "Utrecht",
+    "Inwoneraantal": 1263509
+  },
+  {
+    "Gemeente": "Loppersum",
+    "CBS": "0024",
+    "Provincies": "Groningen",
+    "Inwoneraantal": 584104
+  },
+  {
+    "Gemeente": "Losser",
+    "CBS": "0168",
+    "Provincies": "Overijssel",
+    "Inwoneraantal": 1140659
+  },
+  {
+    "Gemeente": "Maasdriel",
+    "CBS": "0263",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Maasgouw",
+    "CBS": 1641,
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Maassluis",
+    "CBS": "0556",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Maastricht",
+    "CBS": "0935",
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Medemblik",
+    "CBS": "0420",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Meerssen",
+    "CBS": "0938",
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Meierijstad",
+    "CBS": 1948,
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Meppel",
+    "CBS": "0119",
+    "Provincies": "Drenthe",
+    "Inwoneraantal": 488611
+  },
+  {
+    "Gemeente": "Middelburg",
+    "CBS": "0687",
+    "Provincies": "Zeeland",
+    "Inwoneraantal": 380717
+  },
+  {
+    "Gemeente": "Midden-Delfland",
+    "CBS": 1842,
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Midden-Drenthe",
+    "CBS": 1731,
+    "Provincies": "Drenthe",
+    "Inwoneraantal": 488611
+  },
+  {
+    "Gemeente": "Midden-Groningen",
+    "CBS": 1952,
+    "Provincies": "Groningen",
+    "Inwoneraantal": 584104
+  },
+  {
+    "Gemeente": "Mill en Sint Hubert",
+    "CBS": "0815",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Moerdijk",
+    "CBS": 1709,
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Molenlanden",
+    "CBS": 1978,
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Montferland",
+    "CBS": 1955,
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Montfoort",
+    "CBS": "0335",
+    "Provincies": "Utrecht",
+    "Inwoneraantal": 1263509
+  },
+  {
+    "Gemeente": "Mook en Middelaar",
+    "CBS": "0944",
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Neder-Betuwe",
+    "CBS": 1740,
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Nederweert",
+    "CBS": "0946",
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Nieuwegein",
+    "CBS": "0356",
+    "Provincies": "Utrecht",
+    "Inwoneraantal": 1263509
+  },
+  {
+    "Gemeente": "Nieuwkoop",
+    "CBS": "0569",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Nijkerk",
+    "CBS": "0267",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Nijmegen",
+    "CBS": "0268",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Nissewaard",
+    "CBS": 1930,
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Noord-Beveland",
+    "CBS": 1695,
+    "Provincies": "Zeeland",
+    "Inwoneraantal": 380717
+  },
+  {
+    "Gemeente": "Noordenveld",
+    "CBS": 1699,
+    "Provincies": "Drenthe",
+    "Inwoneraantal": 488611
+  },
+  {
+    "Gemeente": "Noordoostpolder",
+    "CBS": "0171",
+    "Provincies": "Flevoland",
+    "Inwoneraantal": 401503
+  },
+  {
+    "Gemeente": "Noordwijk",
+    "CBS": "0575",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Nordeast-Fryslân",
+    "CBS": 1970,
+    "Provincies": "Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Nuenen, Gerwen en Nederwetten",
+    "CBS": "0820",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Nunspeet",
+    "CBS": "0302",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Oegstgeest",
+    "CBS": "0579",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Oirschot",
+    "CBS": "0823",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Oisterwijk",
+    "CBS": "0824",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Oldambt",
+    "CBS": 1895,
+    "Provincies": "Groningen",
+    "Inwoneraantal": 584104
+  },
+  {
+    "Gemeente": "Oldebroek",
+    "CBS": "0269",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Oldenzaal",
+    "CBS": "0173",
+    "Provincies": "Overijssel",
+    "Inwoneraantal": 1140659
+  },
+  {
+    "Gemeente": "Olst-Wijhe",
+    "CBS": 1773,
+    "Provincies": "Overijssel",
+    "Inwoneraantal": 1140659
+  },
+  {
+    "Gemeente": "Ommen",
+    "CBS": "0175",
+    "Provincies": "Overijssel",
+    "Inwoneraantal": 1140659
+  },
+  {
+    "Gemeente": "Oost Gelre",
+    "CBS": 1586,
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Oosterhout",
+    "CBS": "0826",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Ooststellingwerf",
+    "CBS": "0085",
+    "Provincies": "Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Oostzaan",
+    "CBS": "0431",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Opmeer",
+    "CBS": "0432",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Opsterland",
+    "CBS": "0086",
+    "Provincies": "Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Oss",
+    "CBS": "0828",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Oude IJsselstreek",
+    "CBS": 1509,
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Ouder-Amstel",
+    "CBS": "0437",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Oudewater",
+    "CBS": "0589",
+    "Provincies": "Utrecht",
+    "Inwoneraantal": 1263509
+  },
+  {
+    "Gemeente": "Overbetuwe",
+    "CBS": 1734,
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Papendrecht",
+    "CBS": "0590",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Peel en Maas",
+    "CBS": 1894,
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Pekela",
+    "CBS": "0765",
+    "Provincies": "Groningen",
+    "Inwoneraantal": 584104
+  },
+  {
+    "Gemeente": "Pijnacker-Nootdorp",
+    "CBS": 1926,
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Purmerend",
+    "CBS": "0439",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Putten",
+    "CBS": "0273",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Raalte",
+    "CBS": "0177",
+    "Provincies": "Overijssel",
+    "Inwoneraantal": 1140659
+  },
+  {
+    "Gemeente": "Reimerswaal",
+    "CBS": "0703",
+    "Provincies": "Zeeland",
+    "Inwoneraantal": 380717
+  },
+  {
+    "Gemeente": "Renkum",
+    "CBS": "0274",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Renswoude",
+    "CBS": "0339",
+    "Provincies": "Utrecht",
+    "Inwoneraantal": 1263509
+  },
+  {
+    "Gemeente": "Reusel-De Mierden",
+    "CBS": 1667,
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Rheden",
+    "CBS": "0275",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Rhenen",
+    "CBS": "0340",
+    "Provincies": "Utrecht",
+    "Inwoneraantal": 1263509
+  },
+  {
+    "Gemeente": "Ridderkerk",
+    "CBS": "0597",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Rijssen-Holten",
+    "CBS": 1742,
+    "Provincies": "Overijssel",
+    "Inwoneraantal": 1140659
+  },
+  {
+    "Gemeente": "Rijswijk",
+    "CBS": "0603",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Roerdalen",
+    "CBS": 1669,
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Roermond",
+    "CBS": "0957",
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Roosendaal",
+    "CBS": 1674,
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Rotterdam",
+    "CBS": "0599",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Rozendaal",
+    "CBS": "0277",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Rucphen",
+    "CBS": "0840",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Schagen",
+    "CBS": "0441",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Scherpenzeel",
+    "CBS": "0279",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Schiedam",
+    "CBS": "0606",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Schiermonnikoog",
+    "CBS": "0088",
+    "Provincies": "Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Schouwen-Duiveland",
+    "CBS": 1676,
+    "Provincies": "Zeeland",
+    "Inwoneraantal": 380717
+  },
+  {
+    "Gemeente": "Simpelveld",
+    "CBS": "0965",
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Sint Anthonis",
+    "CBS": 1702,
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Sint-Michielsgestel",
+    "CBS": "0845",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Sittard-Geleen",
+    "CBS": 1883,
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Sliedrecht",
+    "CBS": "0610",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Sluis",
+    "CBS": 1714,
+    "Provincies": "Zeeland",
+    "Inwoneraantal": 380717
+  },
+  {
+    "Gemeente": "Smallingerland",
+    "CBS": "0090",
+    "Provincies": "Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Soest",
+    "CBS": "0342",
+    "Provincies": "Utrecht",
+    "Inwoneraantal": 1263509
+  },
+  {
+    "Gemeente": "Someren",
+    "CBS": "0847",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Son en Breugel",
+    "CBS": "0848",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Stadskanaal",
+    "CBS": "0037",
+    "Provincies": "Groningen",
+    "Inwoneraantal": 584104
+  },
+  {
+    "Gemeente": "Staphorst",
+    "CBS": "0180",
+    "Provincies": "Overijssel",
+    "Inwoneraantal": 1140659
+  },
+  {
+    "Gemeente": "Stede Broec",
+    "CBS": "0532",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Steenbergen",
+    "CBS": "0851",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Steenwijkerland",
+    "CBS": 1708,
+    "Provincies": "Overijssel",
+    "Inwoneraantal": 1140659
+  },
+  {
+    "Gemeente": "Stein",
+    "CBS": "0971",
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Stichtse Vecht",
+    "CBS": 1904,
+    "Provincies": "Utrecht",
+    "Inwoneraantal": 1263509
+  },
+  {
+    "Gemeente": "Súdwest Fryslân",
+    "CBS": 1900,
+    "Provincies": "Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Terneuzen",
+    "CBS": "0715",
+    "Provincies": "Zeeland",
+    "Inwoneraantal": 380717
+  },
+  {
+    "Gemeente": "Terschelling",
+    "CBS": "0093",
+    "Provincies": "Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Texel",
+    "CBS": "0448",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Teylingen",
+    "CBS": 1525,
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Tholen",
+    "CBS": "0716",
+    "Provincies": "Zeeland",
+    "Inwoneraantal": 380717
+  },
+  {
+    "Gemeente": "Tiel",
+    "CBS": "0281",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Tilburg",
+    "CBS": "0855",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Tubbergen",
+    "CBS": "0183",
+    "Provincies": "Overijssel",
+    "Inwoneraantal": 1140659
+  },
+  {
+    "Gemeente": "Twenterand",
+    "CBS": 1700,
+    "Provincies": "Overijssel",
+    "Inwoneraantal": 1140659
+  },
+  {
+    "Gemeente": "Tynaarlo",
+    "CBS": 1730,
+    "Provincies": "Drenthe",
+    "Inwoneraantal": 488611
+  },
+  {
+    "Gemeente": "Tytsjerksteradiel",
+    "CBS": "0737",
+    "Provincies": "Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Uden",
+    "CBS": "0856",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Uitgeest",
+    "CBS": "0450",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Uithoorn",
+    "CBS": "0451",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Urk",
+    "CBS": "0184",
+    "Provincies": "Flevoland",
+    "Inwoneraantal": 401503
+  },
+  {
+    "Gemeente": "Utrecht",
+    "CBS": "0344",
+    "Provincies": "Utrecht",
+    "Inwoneraantal": 1263509
+  },
+  {
+    "Gemeente": "Utrechtse Heuvelrug",
+    "CBS": 1581,
+    "Provincies": "Utrecht",
+    "Inwoneraantal": 1263509
+  },
+  {
+    "Gemeente": "Vaals",
+    "CBS": "0981",
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Valkenburg aan de Geul",
+    "CBS": "0994",
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Valkenswaard",
+    "CBS": "0858",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Veendam",
+    "CBS": "0047",
+    "Provincies": "Groningen",
+    "Inwoneraantal": 584104
+  },
+  {
+    "Gemeente": "Veenendaal",
+    "CBS": "0345",
+    "Provincies": "Utrecht",
+    "Inwoneraantal": 1263509
+  },
+  {
+    "Gemeente": "Veere",
+    "CBS": "0717",
+    "Provincies": "Zeeland",
+    "Inwoneraantal": 380717
+  },
+  {
+    "Gemeente": "Veldhoven",
+    "CBS": "0861",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Velsen",
+    "CBS": "0453",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Venlo",
+    "CBS": "0983",
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Venray",
+    "CBS": "0984",
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Vijfheerenlanden",
+    "CBS": 1961,
+    "Provincies": "Utrecht",
+    "Inwoneraantal": 1263509
+  },
+  {
+    "Gemeente": "Vlaardingen",
+    "CBS": "0622",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Vlieland",
+    "CBS": "0096",
+    "Provincies": "Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Vlissingen",
+    "CBS": "0718",
+    "Provincies": "Zeeland",
+    "Inwoneraantal": 380717
+  },
+  {
+    "Gemeente": "Voerendaal",
+    "CBS": "0986",
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Voorschoten",
+    "CBS": "0626",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Voorst",
+    "CBS": "0285",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Vught",
+    "CBS": "0865",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Waadhoeke",
+    "CBS": 1949,
+    "Provincies": "Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Waalre",
+    "CBS": "0866",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Waalwijk",
+    "CBS": "0867",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Waddinxveen",
+    "CBS": "0627",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Wageningen",
+    "CBS": "0289",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Wassenaar",
+    "CBS": "0629",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Waterland",
+    "CBS": "0852",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Weert",
+    "CBS": "0988",
+    "Provincies": "Limburg (NL)",
+    "Inwoneraantal": 1118054
+  },
+  {
+    "Gemeente": "Weesp",
+    "CBS": "0457",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "West Betuwe",
+    "CBS": 1960,
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "West Maas en Waal",
+    "CBS": "0668",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Westerkwartier",
+    "CBS": 1969,
+    "Provincies": "Groningen",
+    "Inwoneraantal": 584104
+  },
+  {
+    "Gemeente": "Westerveld",
+    "CBS": 1701,
+    "Provincies": "Drenthe",
+    "Inwoneraantal": 488611
+  },
+  {
+    "Gemeente": "Westervoort",
+    "CBS": "0293",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Westerwolde",
+    "CBS": 1950,
+    "Provincies": "Groningen",
+    "Inwoneraantal": 584104
+  },
+  {
+    "Gemeente": "Westland",
+    "CBS": 1783,
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Weststellingwerf",
+    "CBS": "0098",
+    "Provincies": "Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Westvoorne",
+    "CBS": "0614",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Wierden",
+    "CBS": "0189",
+    "Provincies": "Overijssel",
+    "Inwoneraantal": 1140659
+  },
+  {
+    "Gemeente": "Wijchen",
+    "CBS": "0296",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Wijdemeren",
+    "CBS": 1696,
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Wijk bij Duurstede",
+    "CBS": "0352",
+    "Provincies": "Utrecht",
+    "Inwoneraantal": 1263509
+  },
+  {
+    "Gemeente": "Winterswijk",
+    "CBS": "0294",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Woensdrecht",
+    "CBS": "0873",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Woerden",
+    "CBS": "0632",
+    "Provincies": "Utrecht",
+    "Inwoneraantal": 1263509
+  },
+  {
+    "Gemeente": "Wormerland",
+    "CBS": "0880",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Woudenberg",
+    "CBS": "0351",
+    "Provincies": "Utrecht",
+    "Inwoneraantal": 1263509
+  },
+  {
+    "Gemeente": "Zaanstad",
+    "CBS": "0479",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Zaltbommel",
+    "CBS": "0297",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Zandvoort",
+    "CBS": "0473",
+    "Provincies": "Noord-Holland",
+    "Inwoneraantal": 2762163
+  },
+  {
+    "Gemeente": "Zeewolde",
+    "CBS": "0050",
+    "Provincies": "Flevoland",
+    "Inwoneraantal": 401503
+  },
+  {
+    "Gemeente": "Zeist",
+    "CBS": "0355",
+    "Provincies": "Utrecht",
+    "Inwoneraantal": 1263509
+  },
+  {
+    "Gemeente": "Zevenaar",
+    "CBS": "0299",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Zoetermeer",
+    "CBS": "0637",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Zoeterwoude",
+    "CBS": "0638",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Zuidplas",
+    "CBS": 1892,
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Zundert",
+    "CBS": "0879",
+    "Provincies": "Noord-Brabant",
+    "Inwoneraantal": 2489325
+  },
+  {
+    "Gemeente": "Zutphen",
+    "CBS": "0301",
+    "Provincies": "Gelderland",
+    "Inwoneraantal": 2026393
+  },
+  {
+    "Gemeente": "Zwartewaterland",
+    "CBS": 1896,
+    "Provincies": "Overijssel",
+    "Inwoneraantal": 1140659
+  },
+  {
+    "Gemeente": "Zwijndrecht",
+    "CBS": "0642",
+    "Provincies": "Zuid-Holland",
+    "Inwoneraantal": 3600784
+  },
+  {
+    "Gemeente": "Zwolle",
+    "CBS": "0193",
+    "Provincies": "Overijssel",
+    "Inwoneraantal": 1140659
+  }
+]

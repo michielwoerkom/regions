@@ -1,11 +1,13 @@
 import React, { Component } from 'react';
-import City from './cityData';
+import HealthCareCosts from './HealthCareCosts';
+import Regios from './Regios';
 
 class App extends Component {
   render() {
     return(
       <div>
-        <City />
+        <Regios/>
+        <HealthCareCosts />
       </div>
     );
   }

@@ -1,0 +1,2132 @@
+[
+  {
+    "Gemeente": "Aa en Hunze",
+    "CBS": 1680,
+    "Zorgkantoorregio": "Zorgkantoor Drenthe",
+    "Inwoneraantal": 488611
+  },
+  {
+    "Gemeente": "Aalsmeer",
+    "CBS": "0358",
+    "Zorgkantoorregio": "Zorgkantoor Amstelland en De Meerlanden",
+    "Inwoneraantal": 304385
+  },
+  {
+    "Gemeente": "Aalten",
+    "CBS": "0197",
+    "Zorgkantoorregio": "Zorgkantoor Arnhem",
+    "Inwoneraantal": 927793
+  },
+  {
+    "Gemeente": "Achtkarspelen",
+    "CBS": "0059",
+    "Zorgkantoorregio": "Zorgkantoor Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Alblasserdam",
+    "CBS": "0482",
+    "Zorgkantoorregio": "Zorgkantoor Waardenland",
+    "Inwoneraantal": 400351
+  },
+  {
+    "Gemeente": "Albrandswaard",
+    "CBS": "0613",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Hollandse Eilanden",
+    "Inwoneraantal": 405111
+  },
+  {
+    "Gemeente": "Alkmaar",
+    "CBS": "0361",
+    "Zorgkantoorregio": "Zorgkantoor Noord-Holland Noord",
+    "Inwoneraantal": 612627
+  },
+  {
+    "Gemeente": "Almelo",
+    "CBS": "0141",
+    "Zorgkantoorregio": "Zorgkantoor Twente",
+    "Inwoneraantal": 626009
+  },
+  {
+    "Gemeente": "Almere",
+    "CBS": "0034",
+    "Zorgkantoorregio": "Zorgkantoor 't Gooi",
+    "Inwoneraantal": 452283
+  },
+  {
+    "Gemeente": "Alphen aan den Rijn",
+    "CBS": "0484",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Holland Noord",
+    "Inwoneraantal": 549589
+  },
+  {
+    "Gemeente": "Alphen-Chaam",
+    "CBS": 1723,
+    "Zorgkantoorregio": "Zorgkantoor West-Brabant",
+    "Inwoneraantal": 694612
+  },
+  {
+    "Gemeente": "Altena",
+    "CBS": 1959,
+    "Zorgkantoorregio": "Zorgkantoor West-Brabant",
+    "Inwoneraantal": 694612
+  },
+  {
+    "Gemeente": "Ameland",
+    "CBS": "0060",
+    "Zorgkantoorregio": "Zorgkantoor Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Amersfoort",
+    "CBS": "0307",
+    "Zorgkantoorregio": "Zorgkantoor Utrecht",
+    "Inwoneraantal": 1308712
+  },
+  {
+    "Gemeente": "Amstelveen",
+    "CBS": "0362",
+    "Zorgkantoorregio": "Zorgkantoor Amstelland en De Meerlanden",
+    "Inwoneraantal": 304385
+  },
+  {
+    "Gemeente": "Amsterdam",
+    "CBS": "0363",
+    "Zorgkantoorregio": "Zorgkantoor Amsterdam",
+    "Inwoneraantal": 848605
+  },
+  {
+    "Gemeente": "Apeldoorn",
+    "CBS": "0200",
+    "Zorgkantoorregio": "Zorgkantoor Apeldoorn / Zutphen",
+    "Inwoneraantal": 309859
+  },
+  {
+    "Gemeente": "Appingedam",
+    "CBS": "0003",
+    "Zorgkantoorregio": "Zorgkantoor Groningen",
+    "Inwoneraantal": 584104
+  },
+  {
+    "Gemeente": "Arnhem",
+    "CBS": "0202",
+    "Zorgkantoorregio": "Zorgkantoor Arnhem",
+    "Inwoneraantal": 927793
+  },
+  {
+    "Gemeente": "Assen",
+    "CBS": "0106",
+    "Zorgkantoorregio": "Zorgkantoor Drenthe",
+    "Inwoneraantal": 488611
+  },
+  {
+    "Gemeente": "Asten",
+    "CBS": "0743",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Oost Brabant",
+    "Inwoneraantal": 752485
+  },
+  {
+    "Gemeente": "Baarle-Nassau",
+    "CBS": "0744",
+    "Zorgkantoorregio": "Zorgkantoor West-Brabant",
+    "Inwoneraantal": 694612
+  },
+  {
+    "Gemeente": "Baarn",
+    "CBS": "0308",
+    "Zorgkantoorregio": "Zorgkantoor Utrecht",
+    "Inwoneraantal": 1308712
+  },
+  {
+    "Gemeente": "Barendrecht",
+    "CBS": "0489",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Hollandse Eilanden",
+    "Inwoneraantal": 405111
+  },
+  {
+    "Gemeente": "Barneveld",
+    "CBS": "0203",
+    "Zorgkantoorregio": "Zorgkantoor Arnhem",
+    "Inwoneraantal": 927793
+  },
+  {
+    "Gemeente": "Beek",
+    "CBS": "0888",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Limburg",
+    "Inwoneraantal": 602040
+  },
+  {
+    "Gemeente": "Beekdaelen",
+    "CBS": 1954,
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Limburg",
+    "Inwoneraantal": 602040
+  },
+  {
+    "Gemeente": "Beemster",
+    "CBS": "0370",
+    "Zorgkantoorregio": "Zorgkantoor Zaanstreek / Waterland",
+    "Inwoneraantal": 328233
+  },
+  {
+    "Gemeente": "Beesel",
+    "CBS": "0889",
+    "Zorgkantoorregio": "Zorgkantoor Noord- en Midden-Limburg",
+    "Inwoneraantal": 490976
+  },
+  {
+    "Gemeente": "Berg en Dal",
+    "CBS": 1945,
+    "Zorgkantoorregio": "Zorgkantoor Nijmegen",
+    "Inwoneraantal": 516743
+  },
+  {
+    "Gemeente": "Bergeijk",
+    "CBS": 1724,
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Oost Brabant",
+    "Inwoneraantal": 752485
+  },
+  {
+    "Gemeente": "Bergen (L)",
+    "CBS": "0893",
+    "Zorgkantoorregio": "Zorgkantoor Noord- en Midden-Limburg",
+    "Inwoneraantal": 490976
+  },
+  {
+    "Gemeente": "Bergen (NH)",
+    "CBS": "0373",
+    "Zorgkantoorregio": "Zorgkantoor Noord-Holland Noord",
+    "Inwoneraantal": 612627
+  },
+  {
+    "Gemeente": "Bergen op Zoom",
+    "CBS": "0748",
+    "Zorgkantoorregio": "Zorgkantoor West-Brabant",
+    "Inwoneraantal": 694612
+  },
+  {
+    "Gemeente": "Berkelland",
+    "CBS": 1859,
+    "Zorgkantoorregio": "Zorgkantoor Arnhem",
+    "Inwoneraantal": 927793
+  },
+  {
+    "Gemeente": "Bernheze",
+    "CBS": 1721,
+    "Zorgkantoorregio": "Zorgkantoor Noord-Oost Brabant",
+    "Inwoneraantal": 654115
+  },
+  {
+    "Gemeente": "Best",
+    "CBS": "0753",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Oost Brabant",
+    "Inwoneraantal": 752485
+  },
+  {
+    "Gemeente": "Beuningen",
+    "CBS": "0209",
+    "Zorgkantoorregio": "Zorgkantoor Nijmegen",
+    "Inwoneraantal": 516743
+  },
+  {
+    "Gemeente": "Beverwijk",
+    "CBS": "0375",
+    "Zorgkantoorregio": "Zorgkantoor Kennemerland",
+    "Inwoneraantal": 421773
+  },
+  {
+    "Gemeente": "Bladel",
+    "CBS": 1728,
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Oost Brabant",
+    "Inwoneraantal": 752485
+  },
+  {
+    "Gemeente": "Blaricum",
+    "CBS": "0376",
+    "Zorgkantoorregio": "Zorgkantoor 't Gooi",
+    "Inwoneraantal": 452283
+  },
+  {
+    "Gemeente": "Bloemendaal",
+    "CBS": "0377",
+    "Zorgkantoorregio": "Zorgkantoor Kennemerland",
+    "Inwoneraantal": 421773
+  },
+  {
+    "Gemeente": "Bodegraven-Reeuwijk",
+    "CBS": 1901,
+    "Zorgkantoorregio": "Zorgkantoor Midden-Holland",
+    "Inwoneraantal": 224887
+  },
+  {
+    "Gemeente": "Boekel",
+    "CBS": "0755",
+    "Zorgkantoorregio": "Zorgkantoor Noord-Oost Brabant",
+    "Inwoneraantal": 654115
+  },
+  {
+    "Gemeente": "Borger-Odoorn",
+    "CBS": 1681,
+    "Zorgkantoorregio": "Zorgkantoor Drenthe",
+    "Inwoneraantal": 488611
+  },
+  {
+    "Gemeente": "Borne",
+    "CBS": "0147",
+    "Zorgkantoorregio": "Zorgkantoor Twente",
+    "Inwoneraantal": 626009
+  },
+  {
+    "Gemeente": "Borsele",
+    "CBS": "0654",
+    "Zorgkantoorregio": "Zorgkantoor Zeeland",
+    "Inwoneraantal": 380717
+  },
+  {
+    "Gemeente": "Boxmeer",
+    "CBS": "0756",
+    "Zorgkantoorregio": "Zorgkantoor Noord-Oost Brabant",
+    "Inwoneraantal": 654115
+  },
+  {
+    "Gemeente": "Boxtel",
+    "CBS": "0757",
+    "Zorgkantoorregio": "Zorgkantoor Noord-Oost Brabant",
+    "Inwoneraantal": 654115
+  },
+  {
+    "Gemeente": "Breda",
+    "CBS": "0758",
+    "Zorgkantoorregio": "Zorgkantoor West-Brabant",
+    "Inwoneraantal": 694612
+  },
+  {
+    "Gemeente": "Brielle",
+    "CBS": "0501",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Hollandse Eilanden",
+    "Inwoneraantal": 405111
+  },
+  {
+    "Gemeente": "Bronckhorst",
+    "CBS": 1876,
+    "Zorgkantoorregio": "Zorgkantoor Arnhem",
+    "Inwoneraantal": 927793
+  },
+  {
+    "Gemeente": "Brummen",
+    "CBS": "0213",
+    "Zorgkantoorregio": "Zorgkantoor Apeldoorn / Zutphen",
+    "Inwoneraantal": 309859
+  },
+  {
+    "Gemeente": "Brunssum",
+    "CBS": "0899",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Limburg",
+    "Inwoneraantal": 602040
+  },
+  {
+    "Gemeente": "Bunnik",
+    "CBS": "0312",
+    "Zorgkantoorregio": "Zorgkantoor Utrecht",
+    "Inwoneraantal": 1308712
+  },
+  {
+    "Gemeente": "Bunschoten",
+    "CBS": "0313",
+    "Zorgkantoorregio": "Zorgkantoor Utrecht",
+    "Inwoneraantal": 1308712
+  },
+  {
+    "Gemeente": "Buren",
+    "CBS": "0214",
+    "Zorgkantoorregio": "Zorgkantoor Nijmegen",
+    "Inwoneraantal": 516743
+  },
+  {
+    "Gemeente": "Capelle aan den IJssel",
+    "CBS": "0502",
+    "Zorgkantoorregio": "Zorgkantoor Rotterdam",
+    "Inwoneraantal": 720119
+  },
+  {
+    "Gemeente": "Castricum",
+    "CBS": "0383",
+    "Zorgkantoorregio": "Zorgkantoor Kennemerland",
+    "Inwoneraantal": 421773
+  },
+  {
+    "Gemeente": "Coevorden",
+    "CBS": "0109",
+    "Zorgkantoorregio": "Zorgkantoor Drenthe",
+    "Inwoneraantal": 488611
+  },
+  {
+    "Gemeente": "Cranendonck",
+    "CBS": 1706,
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Oost Brabant",
+    "Inwoneraantal": 752485
+  },
+  {
+    "Gemeente": "Cuijk",
+    "CBS": 1684,
+    "Zorgkantoorregio": "Zorgkantoor Noord-Oost Brabant",
+    "Inwoneraantal": 654115
+  },
+  {
+    "Gemeente": "Culemborg",
+    "CBS": "0216",
+    "Zorgkantoorregio": "Zorgkantoor Nijmegen",
+    "Inwoneraantal": 516743
+  },
+  {
+    "Gemeente": "Dalfsen",
+    "CBS": "0148",
+    "Zorgkantoorregio": "Zorgkantoor Zwolle",
+    "Inwoneraantal": 542425
+  },
+  {
+    "Gemeente": "Dantumadiel",
+    "CBS": 1891,
+    "Zorgkantoorregio": "Zorgkantoor Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "De Bilt",
+    "CBS": "0310",
+    "Zorgkantoorregio": "Zorgkantoor Utrecht",
+    "Inwoneraantal": 1308712
+  },
+  {
+    "Gemeente": "De Fryske Marren",
+    "CBS": 1940,
+    "Zorgkantoorregio": "Zorgkantoor Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "De Ronde Venen",
+    "CBS": "0736",
+    "Zorgkantoorregio": "Zorgkantoor Utrecht",
+    "Inwoneraantal": 1308712
+  },
+  {
+    "Gemeente": "De Wolden",
+    "CBS": 1690,
+    "Zorgkantoorregio": "Zorgkantoor Drenthe",
+    "Inwoneraantal": 488611
+  },
+  {
+    "Gemeente": "Delft",
+    "CBS": "0503",
+    "Zorgkantoorregio": "Zorgkantoor Westland Schieland Delfland",
+    "Inwoneraantal": 333377
+  },
+  {
+    "Gemeente": "Delfzijl",
+    "CBS": "0010",
+    "Zorgkantoorregio": "Zorgkantoor Groningen",
+    "Inwoneraantal": 584104
+  },
+  {
+    "Gemeente": "Den Helder",
+    "CBS": "0400",
+    "Zorgkantoorregio": "Zorgkantoor Noord-Holland Noord",
+    "Inwoneraantal": 612627
+  },
+  {
+    "Gemeente": "Deurne",
+    "CBS": "0762",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Oost Brabant",
+    "Inwoneraantal": 752485
+  },
+  {
+    "Gemeente": "Deventer",
+    "CBS": "0150",
+    "Zorgkantoorregio": "Zorgkantoor Midden-IJssel",
+    "Inwoneraantal": 176858
+  },
+  {
+    "Gemeente": "Diemen",
+    "CBS": "0384",
+    "Zorgkantoorregio": "Zorgkantoor Amsterdam",
+    "Inwoneraantal": 848605
+  },
+  {
+    "Gemeente": "Dinkelland",
+    "CBS": 1774,
+    "Zorgkantoorregio": "Zorgkantoor Twente",
+    "Inwoneraantal": 626009
+  },
+  {
+    "Gemeente": "Doesburg",
+    "CBS": "0221",
+    "Zorgkantoorregio": "Zorgkantoor Arnhem",
+    "Inwoneraantal": 927793
+  },
+  {
+    "Gemeente": "Doetinchem",
+    "CBS": "0222",
+    "Zorgkantoorregio": "Zorgkantoor Arnhem",
+    "Inwoneraantal": 927793
+  },
+  {
+    "Gemeente": "Dongen",
+    "CBS": "0766",
+    "Zorgkantoorregio": "Zorgkantoor Midden-Brabant",
+    "Inwoneraantal": 439653
+  },
+  {
+    "Gemeente": "Dordrecht",
+    "CBS": "0505",
+    "Zorgkantoorregio": "Zorgkantoor Waardenland",
+    "Inwoneraantal": 400351
+  },
+  {
+    "Gemeente": "Drechterland",
+    "CBS": "0498",
+    "Zorgkantoorregio": "Zorgkantoor Noord-Holland Noord",
+    "Inwoneraantal": 612627
+  },
+  {
+    "Gemeente": "Drimmelen",
+    "CBS": 1719,
+    "Zorgkantoorregio": "Zorgkantoor West-Brabant",
+    "Inwoneraantal": 694612
+  },
+  {
+    "Gemeente": "Dronten",
+    "CBS": "0303",
+    "Zorgkantoorregio": "Zorgkantoor Flevoland",
+    "Inwoneraantal": 204567
+  },
+  {
+    "Gemeente": "Druten",
+    "CBS": "0225",
+    "Zorgkantoorregio": "Zorgkantoor Nijmegen",
+    "Inwoneraantal": 516743
+  },
+  {
+    "Gemeente": "Duiven",
+    "CBS": "0226",
+    "Zorgkantoorregio": "Zorgkantoor Arnhem",
+    "Inwoneraantal": 927793
+  },
+  {
+    "Gemeente": "Echt-Susteren",
+    "CBS": 1711,
+    "Zorgkantoorregio": "Zorgkantoor Noord- en Midden-Limburg",
+    "Inwoneraantal": 490976
+  },
+  {
+    "Gemeente": "Edam-Volendam",
+    "CBS": "0385",
+    "Zorgkantoorregio": "Zorgkantoor Zaanstreek / Waterland",
+    "Inwoneraantal": 328233
+  },
+  {
+    "Gemeente": "Ede",
+    "CBS": "0228",
+    "Zorgkantoorregio": "Zorgkantoor Arnhem",
+    "Inwoneraantal": 927793
+  },
+  {
+    "Gemeente": "Eemnes",
+    "CBS": "0317",
+    "Zorgkantoorregio": "Zorgkantoor 't Gooi",
+    "Inwoneraantal": 452283
+  },
+  {
+    "Gemeente": "Eersel",
+    "CBS": "0770",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Oost Brabant",
+    "Inwoneraantal": 752485
+  },
+  {
+    "Gemeente": "Eijsden-Margraten",
+    "CBS": 1903,
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Limburg",
+    "Inwoneraantal": 602040
+  },
+  {
+    "Gemeente": "Eindhoven",
+    "CBS": "0772",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Oost Brabant",
+    "Inwoneraantal": 752485
+  },
+  {
+    "Gemeente": "Elburg",
+    "CBS": "0230",
+    "Zorgkantoorregio": "Zorgkantoor Zwolle",
+    "Inwoneraantal": 542425
+  },
+  {
+    "Gemeente": "Emmen",
+    "CBS": "0114",
+    "Zorgkantoorregio": "Zorgkantoor Drenthe",
+    "Inwoneraantal": 488611
+  },
+  {
+    "Gemeente": "Enkhuizen",
+    "CBS": "0388",
+    "Zorgkantoorregio": "Zorgkantoor Noord-Holland Noord",
+    "Inwoneraantal": 612627
+  },
+  {
+    "Gemeente": "Enschede",
+    "CBS": "0153",
+    "Zorgkantoorregio": "Zorgkantoor Twente",
+    "Inwoneraantal": 626009
+  },
+  {
+    "Gemeente": "Epe",
+    "CBS": "0232",
+    "Zorgkantoorregio": "Zorgkantoor Apeldoorn / Zutphen",
+    "Inwoneraantal": 309859
+  },
+  {
+    "Gemeente": "Ermelo",
+    "CBS": "0233",
+    "Zorgkantoorregio": "Zorgkantoor Zwolle",
+    "Inwoneraantal": 542425
+  },
+  {
+    "Gemeente": "Etten-Leur",
+    "CBS": "0777",
+    "Zorgkantoorregio": "Zorgkantoor West-Brabant",
+    "Inwoneraantal": 694612
+  },
+  {
+    "Gemeente": "Geertruidenberg",
+    "CBS": "0779",
+    "Zorgkantoorregio": "Zorgkantoor West-Brabant",
+    "Inwoneraantal": 694612
+  },
+  {
+    "Gemeente": "Geldrop-Mierlo",
+    "CBS": 1771,
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Oost Brabant",
+    "Inwoneraantal": 752485
+  },
+  {
+    "Gemeente": "Gemert-Bakel",
+    "CBS": 1652,
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Oost Brabant",
+    "Inwoneraantal": 752485
+  },
+  {
+    "Gemeente": "Gennep",
+    "CBS": "0907",
+    "Zorgkantoorregio": "Zorgkantoor Nijmegen",
+    "Inwoneraantal": 516743
+  },
+  {
+    "Gemeente": "Gilze en Rijen",
+    "CBS": "0784",
+    "Zorgkantoorregio": "Zorgkantoor Midden-Brabant",
+    "Inwoneraantal": 439653
+  },
+  {
+    "Gemeente": "Goeree-Overflakkee",
+    "CBS": 1924,
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Hollandse Eilanden",
+    "Inwoneraantal": 405111
+  },
+  {
+    "Gemeente": "Goes",
+    "CBS": "0664",
+    "Zorgkantoorregio": "Zorgkantoor Zeeland",
+    "Inwoneraantal": 380717
+  },
+  {
+    "Gemeente": "Goirle",
+    "CBS": "0785",
+    "Zorgkantoorregio": "Zorgkantoor Midden-Brabant",
+    "Inwoneraantal": 439653
+  },
+  {
+    "Gemeente": "Gooise Meren",
+    "CBS": 1942,
+    "Zorgkantoorregio": "Zorgkantoor 't Gooi",
+    "Inwoneraantal": 452283
+  },
+  {
+    "Gemeente": "Gorinchem",
+    "CBS": "0512",
+    "Zorgkantoorregio": "Zorgkantoor Waardenland",
+    "Inwoneraantal": 400351
+  },
+  {
+    "Gemeente": "Gouda",
+    "CBS": "0513",
+    "Zorgkantoorregio": "Zorgkantoor Midden-Holland",
+    "Inwoneraantal": 224887
+  },
+  {
+    "Gemeente": "Grave",
+    "CBS": "0786",
+    "Zorgkantoorregio": "Zorgkantoor Noord-Oost Brabant",
+    "Inwoneraantal": 654115
+  },
+  {
+    "Gemeente": "'s-Gravenhage",
+    "CBS": "0518",
+    "Zorgkantoorregio": "Zorgkantoor Haaglanden",
+    "Inwoneraantal": 786612
+  },
+  {
+    "Gemeente": "Groningen",
+    "CBS": "0014",
+    "Zorgkantoorregio": "Zorgkantoor Groningen",
+    "Inwoneraantal": 584104
+  },
+  {
+    "Gemeente": "Gulpen-Wittem",
+    "CBS": 1729,
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Limburg",
+    "Inwoneraantal": 602040
+  },
+  {
+    "Gemeente": "Haaksbergen",
+    "CBS": "0158",
+    "Zorgkantoorregio": "Zorgkantoor Twente",
+    "Inwoneraantal": 626009
+  },
+  {
+    "Gemeente": "Haaren",
+    "CBS": "0788",
+    "Zorgkantoorregio": "Zorgkantoor Noord-Oost Brabant",
+    "Inwoneraantal": 654115
+  },
+  {
+    "Gemeente": "Haarlem",
+    "CBS": "0392",
+    "Zorgkantoorregio": "Zorgkantoor Kennemerland",
+    "Inwoneraantal": 421773
+  },
+  {
+    "Gemeente": "Haarlemmermeer",
+    "CBS": "0394",
+    "Zorgkantoorregio": "Zorgkantoor Amstelland en De Meerlanden",
+    "Inwoneraantal": 304385
+  },
+  {
+    "Gemeente": "Halderberge",
+    "CBS": 1655,
+    "Zorgkantoorregio": "Zorgkantoor West-Brabant",
+    "Inwoneraantal": 694612
+  },
+  {
+    "Gemeente": "Hardenberg",
+    "CBS": "0160",
+    "Zorgkantoorregio": "Zorgkantoor Zwolle",
+    "Inwoneraantal": 542425
+  },
+  {
+    "Gemeente": "Harderwijk",
+    "CBS": "0243",
+    "Zorgkantoorregio": "Zorgkantoor Zwolle",
+    "Inwoneraantal": 542425
+  },
+  {
+    "Gemeente": "Hardinxveld-Giessendam",
+    "CBS": "0523",
+    "Zorgkantoorregio": "Zorgkantoor Waardenland",
+    "Inwoneraantal": 400351
+  },
+  {
+    "Gemeente": "Harlingen",
+    "CBS": "0072",
+    "Zorgkantoorregio": "Zorgkantoor Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Hattem",
+    "CBS": "0244",
+    "Zorgkantoorregio": "Zorgkantoor Zwolle",
+    "Inwoneraantal": 542425
+  },
+  {
+    "Gemeente": "Heemskerk",
+    "CBS": "0396",
+    "Zorgkantoorregio": "Zorgkantoor Kennemerland",
+    "Inwoneraantal": 421773
+  },
+  {
+    "Gemeente": "Heemstede",
+    "CBS": "0397",
+    "Zorgkantoorregio": "Zorgkantoor Kennemerland",
+    "Inwoneraantal": 421773
+  },
+  {
+    "Gemeente": "Heerde",
+    "CBS": "0246",
+    "Zorgkantoorregio": "Zorgkantoor Apeldoorn / Zutphen",
+    "Inwoneraantal": 309859
+  },
+  {
+    "Gemeente": "Heerenveen",
+    "CBS": "0074",
+    "Zorgkantoorregio": "Zorgkantoor Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Heerhugowaard",
+    "CBS": "0398",
+    "Zorgkantoorregio": "Zorgkantoor Noord-Holland Noord",
+    "Inwoneraantal": 612627
+  },
+  {
+    "Gemeente": "Heerlen",
+    "CBS": "0917",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Limburg",
+    "Inwoneraantal": 602040
+  },
+  {
+    "Gemeente": "Heeze-Leende",
+    "CBS": 1658,
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Oost Brabant",
+    "Inwoneraantal": 752485
+  },
+  {
+    "Gemeente": "Heiloo",
+    "CBS": "0399",
+    "Zorgkantoorregio": "Zorgkantoor Noord-Holland Noord",
+    "Inwoneraantal": 612627
+  },
+  {
+    "Gemeente": "Hellendoorn",
+    "CBS": "0163",
+    "Zorgkantoorregio": "Zorgkantoor Twente",
+    "Inwoneraantal": 626009
+  },
+  {
+    "Gemeente": "Hellevoetsluis",
+    "CBS": "0530",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Hollandse Eilanden",
+    "Inwoneraantal": 405111
+  },
+  {
+    "Gemeente": "Helmond",
+    "CBS": "0794",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Oost Brabant",
+    "Inwoneraantal": 752485
+  },
+  {
+    "Gemeente": "Hendrik-Ido-Ambacht",
+    "CBS": "0531",
+    "Zorgkantoorregio": "Zorgkantoor Waardenland",
+    "Inwoneraantal": 400351
+  },
+  {
+    "Gemeente": "Hengelo (O)",
+    "CBS": "0164",
+    "Zorgkantoorregio": "Zorgkantoor Twente",
+    "Inwoneraantal": 626009
+  },
+  {
+    "Gemeente": "'s-Hertogenbosch",
+    "CBS": "0796",
+    "Zorgkantoorregio": "Zorgkantoor Noord-Oost Brabant",
+    "Inwoneraantal": 654115
+  },
+  {
+    "Gemeente": "Het Hogeland",
+    "CBS": 1966,
+    "Zorgkantoorregio": "Zorgkantoor Groningen",
+    "Inwoneraantal": 584104
+  },
+  {
+    "Gemeente": "Heumen",
+    "CBS": "0252",
+    "Zorgkantoorregio": "Zorgkantoor Nijmegen",
+    "Inwoneraantal": 516743
+  },
+  {
+    "Gemeente": "Heusden",
+    "CBS": "0797",
+    "Zorgkantoorregio": "Zorgkantoor Midden-Brabant",
+    "Inwoneraantal": 439653
+  },
+  {
+    "Gemeente": "Hillegom",
+    "CBS": "0534",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Holland Noord",
+    "Inwoneraantal": 549589
+  },
+  {
+    "Gemeente": "Hilvarenbeek",
+    "CBS": "0798",
+    "Zorgkantoorregio": "Zorgkantoor Midden-Brabant",
+    "Inwoneraantal": 439653
+  },
+  {
+    "Gemeente": "Hilversum",
+    "CBS": "0402",
+    "Zorgkantoorregio": "Zorgkantoor 't Gooi",
+    "Inwoneraantal": 452283
+  },
+  {
+    "Gemeente": "Hoeksche Waard",
+    "CBS": 1963,
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Hollandse Eilanden",
+    "Inwoneraantal": 405111
+  },
+  {
+    "Gemeente": "Hof van Twente",
+    "CBS": 1735,
+    "Zorgkantoorregio": "Zorgkantoor Twente",
+    "Inwoneraantal": 626009
+  },
+  {
+    "Gemeente": "Hollands Kroon",
+    "CBS": 1911,
+    "Zorgkantoorregio": "Zorgkantoor Noord-Holland Noord",
+    "Inwoneraantal": 612627
+  },
+  {
+    "Gemeente": "Hoogeveen",
+    "CBS": "0118",
+    "Zorgkantoorregio": "Zorgkantoor Drenthe",
+    "Inwoneraantal": 488611
+  },
+  {
+    "Gemeente": "Hoorn",
+    "CBS": "0405",
+    "Zorgkantoorregio": "Zorgkantoor Noord-Holland Noord",
+    "Inwoneraantal": 612627
+  },
+  {
+    "Gemeente": "Horst aan de Maas",
+    "CBS": 1507,
+    "Zorgkantoorregio": "Zorgkantoor Noord- en Midden-Limburg",
+    "Inwoneraantal": 490976
+  },
+  {
+    "Gemeente": "Houten",
+    "CBS": "0321",
+    "Zorgkantoorregio": "Zorgkantoor Utrecht",
+    "Inwoneraantal": 1308712
+  },
+  {
+    "Gemeente": "Huizen",
+    "CBS": "0406",
+    "Zorgkantoorregio": "Zorgkantoor 't Gooi",
+    "Inwoneraantal": 452283
+  },
+  {
+    "Gemeente": "Hulst",
+    "CBS": "0677",
+    "Zorgkantoorregio": "Zorgkantoor Zeeland",
+    "Inwoneraantal": 380717
+  },
+  {
+    "Gemeente": "IJsselstein",
+    "CBS": "0353",
+    "Zorgkantoorregio": "Zorgkantoor Utrecht",
+    "Inwoneraantal": 1308712
+  },
+  {
+    "Gemeente": "Kaag en Braassem",
+    "CBS": 1884,
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Holland Noord",
+    "Inwoneraantal": 549589
+  },
+  {
+    "Gemeente": "Kampen",
+    "CBS": "0166",
+    "Zorgkantoorregio": "Zorgkantoor Zwolle",
+    "Inwoneraantal": 542425
+  },
+  {
+    "Gemeente": "Kapelle",
+    "CBS": "0678",
+    "Zorgkantoorregio": "Zorgkantoor Zeeland",
+    "Inwoneraantal": 380717
+  },
+  {
+    "Gemeente": "Katwijk",
+    "CBS": "0537",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Holland Noord",
+    "Inwoneraantal": 549589
+  },
+  {
+    "Gemeente": "Kerkrade",
+    "CBS": "0928",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Limburg",
+    "Inwoneraantal": 602040
+  },
+  {
+    "Gemeente": "Koggenland",
+    "CBS": 1598,
+    "Zorgkantoorregio": "Zorgkantoor Noord-Holland Noord",
+    "Inwoneraantal": 612627
+  },
+  {
+    "Gemeente": "Krimpen aan den IJssel",
+    "CBS": "0542",
+    "Zorgkantoorregio": "Zorgkantoor Rotterdam",
+    "Inwoneraantal": 720119
+  },
+  {
+    "Gemeente": "Krimpenerwaard",
+    "CBS": 1931,
+    "Zorgkantoorregio": "Zorgkantoor Midden-Holland",
+    "Inwoneraantal": 224887
+  },
+  {
+    "Gemeente": "Laarbeek",
+    "CBS": 1659,
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Oost Brabant",
+    "Inwoneraantal": 752485
+  },
+  {
+    "Gemeente": "Landerd",
+    "CBS": 1685,
+    "Zorgkantoorregio": "Zorgkantoor Noord-Oost Brabant",
+    "Inwoneraantal": 654115
+  },
+  {
+    "Gemeente": "Landgraaf",
+    "CBS": "0882",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Limburg",
+    "Inwoneraantal": 602040
+  },
+  {
+    "Gemeente": "Landsmeer",
+    "CBS": "0415",
+    "Zorgkantoorregio": "Zorgkantoor Zaanstreek / Waterland",
+    "Inwoneraantal": 328233
+  },
+  {
+    "Gemeente": "Langedijk",
+    "CBS": "0416",
+    "Zorgkantoorregio": "Zorgkantoor Noord-Holland Noord",
+    "Inwoneraantal": 612627
+  },
+  {
+    "Gemeente": "Lansingerland",
+    "CBS": 1621,
+    "Zorgkantoorregio": "Zorgkantoor Westland Schieland Delfland",
+    "Inwoneraantal": 333377
+  },
+  {
+    "Gemeente": "Laren",
+    "CBS": "0417",
+    "Zorgkantoorregio": "Zorgkantoor 't Gooi",
+    "Inwoneraantal": 452283
+  },
+  {
+    "Gemeente": "Leeuwarden",
+    "CBS": "0080",
+    "Zorgkantoorregio": "Zorgkantoor Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Leiden",
+    "CBS": "0546",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Holland Noord",
+    "Inwoneraantal": 549589
+  },
+  {
+    "Gemeente": "Leiderdorp",
+    "CBS": "0547",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Holland Noord",
+    "Inwoneraantal": 549589
+  },
+  {
+    "Gemeente": "Leidschendam-Voorburg",
+    "CBS": 1916,
+    "Zorgkantoorregio": "Zorgkantoor Haaglanden",
+    "Inwoneraantal": 786612
+  },
+  {
+    "Gemeente": "Lelystad",
+    "CBS": "0995",
+    "Zorgkantoorregio": "Zorgkantoor Flevoland",
+    "Inwoneraantal": 204567
+  },
+  {
+    "Gemeente": "Leudal",
+    "CBS": 1640,
+    "Zorgkantoorregio": "Zorgkantoor Noord- en Midden-Limburg",
+    "Inwoneraantal": 490976
+  },
+  {
+    "Gemeente": "Leusden",
+    "CBS": "0327",
+    "Zorgkantoorregio": "Zorgkantoor Utrecht",
+    "Inwoneraantal": 1308712
+  },
+  {
+    "Gemeente": "Lingewaard",
+    "CBS": 1705,
+    "Zorgkantoorregio": "Zorgkantoor Arnhem",
+    "Inwoneraantal": 927793
+  },
+  {
+    "Gemeente": "Lisse",
+    "CBS": "0553",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Holland Noord",
+    "Inwoneraantal": 549589
+  },
+  {
+    "Gemeente": "Lochem",
+    "CBS": "0262",
+    "Zorgkantoorregio": "Zorgkantoor Apeldoorn / Zutphen",
+    "Inwoneraantal": 309859
+  },
+  {
+    "Gemeente": "Loon op Zand",
+    "CBS": "0809",
+    "Zorgkantoorregio": "Zorgkantoor Midden-Brabant",
+    "Inwoneraantal": 439653
+  },
+  {
+    "Gemeente": "Lopik",
+    "CBS": "0331",
+    "Zorgkantoorregio": "Zorgkantoor Utrecht",
+    "Inwoneraantal": 1308712
+  },
+  {
+    "Gemeente": "Loppersum",
+    "CBS": "0024",
+    "Zorgkantoorregio": "Zorgkantoor Groningen",
+    "Inwoneraantal": 584104
+  },
+  {
+    "Gemeente": "Losser",
+    "CBS": "0168",
+    "Zorgkantoorregio": "Zorgkantoor Twente",
+    "Inwoneraantal": 626009
+  },
+  {
+    "Gemeente": "Maasdriel",
+    "CBS": "0263",
+    "Zorgkantoorregio": "Zorgkantoor Noord-Oost Brabant",
+    "Inwoneraantal": 654115
+  },
+  {
+    "Gemeente": "Maasgouw",
+    "CBS": 1641,
+    "Zorgkantoorregio": "Zorgkantoor Noord- en Midden-Limburg",
+    "Inwoneraantal": 490976
+  },
+  {
+    "Gemeente": "Maassluis",
+    "CBS": "0556",
+    "Zorgkantoorregio": "Zorgkantoor Nieuwe Waterweg Noord",
+    "Inwoneraantal": 180706
+  },
+  {
+    "Gemeente": "Maastricht",
+    "CBS": "0935",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Limburg",
+    "Inwoneraantal": 602040
+  },
+  {
+    "Gemeente": "Medemblik",
+    "CBS": "0420",
+    "Zorgkantoorregio": "Zorgkantoor Noord-Holland Noord",
+    "Inwoneraantal": 612627
+  },
+  {
+    "Gemeente": "Meerssen",
+    "CBS": "0938",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Limburg",
+    "Inwoneraantal": 602040
+  },
+  {
+    "Gemeente": "Meierijstad",
+    "CBS": 1948,
+    "Zorgkantoorregio": "Zorgkantoor Noord-Oost Brabant",
+    "Inwoneraantal": 654115
+  },
+  {
+    "Gemeente": "Meppel",
+    "CBS": "0119",
+    "Zorgkantoorregio": "Zorgkantoor Drenthe",
+    "Inwoneraantal": 488611
+  },
+  {
+    "Gemeente": "Middelburg",
+    "CBS": "0687",
+    "Zorgkantoorregio": "Zorgkantoor Zeeland",
+    "Inwoneraantal": 380717
+  },
+  {
+    "Gemeente": "Midden-Delfland",
+    "CBS": 1842,
+    "Zorgkantoorregio": "Zorgkantoor Westland Schieland Delfland",
+    "Inwoneraantal": 333377
+  },
+  {
+    "Gemeente": "Midden-Drenthe",
+    "CBS": 1731,
+    "Zorgkantoorregio": "Zorgkantoor Drenthe",
+    "Inwoneraantal": 488611
+  },
+  {
+    "Gemeente": "Midden-Groningen",
+    "CBS": 1952,
+    "Zorgkantoorregio": "Zorgkantoor Groningen",
+    "Inwoneraantal": 584104
+  },
+  {
+    "Gemeente": "Mill en Sint Hubert",
+    "CBS": "0815",
+    "Zorgkantoorregio": "Zorgkantoor Noord-Oost Brabant",
+    "Inwoneraantal": 654115
+  },
+  {
+    "Gemeente": "Moerdijk",
+    "CBS": 1709,
+    "Zorgkantoorregio": "Zorgkantoor West-Brabant",
+    "Inwoneraantal": 694612
+  },
+  {
+    "Gemeente": "Molenlanden",
+    "CBS": 1978,
+    "Zorgkantoorregio": "Zorgkantoor Waardenland",
+    "Inwoneraantal": 400351
+  },
+  {
+    "Gemeente": "Montferland",
+    "CBS": 1955,
+    "Zorgkantoorregio": "Zorgkantoor Arnhem",
+    "Inwoneraantal": 927793
+  },
+  {
+    "Gemeente": "Montfoort",
+    "CBS": "0335",
+    "Zorgkantoorregio": "Zorgkantoor Utrecht",
+    "Inwoneraantal": 1308712
+  },
+  {
+    "Gemeente": "Mook en Middelaar",
+    "CBS": "0944",
+    "Zorgkantoorregio": "Zorgkantoor Nijmegen",
+    "Inwoneraantal": 516743
+  },
+  {
+    "Gemeente": "Neder-Betuwe",
+    "CBS": 1740,
+    "Zorgkantoorregio": "Zorgkantoor Nijmegen",
+    "Inwoneraantal": 516743
+  },
+  {
+    "Gemeente": "Nederweert",
+    "CBS": "0946",
+    "Zorgkantoorregio": "Zorgkantoor Noord- en Midden-Limburg",
+    "Inwoneraantal": 490976
+  },
+  {
+    "Gemeente": "Nieuwegein",
+    "CBS": "0356",
+    "Zorgkantoorregio": "Zorgkantoor Utrecht",
+    "Inwoneraantal": 1308712
+  },
+  {
+    "Gemeente": "Nieuwkoop",
+    "CBS": "0569",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Holland Noord",
+    "Inwoneraantal": 549589
+  },
+  {
+    "Gemeente": "Nijkerk",
+    "CBS": "0267",
+    "Zorgkantoorregio": "Zorgkantoor Utrecht",
+    "Inwoneraantal": 1308712
+  },
+  {
+    "Gemeente": "Nijmegen",
+    "CBS": "0268",
+    "Zorgkantoorregio": "Zorgkantoor Nijmegen",
+    "Inwoneraantal": 516743
+  },
+  {
+    "Gemeente": "Nissewaard",
+    "CBS": 1930,
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Hollandse Eilanden",
+    "Inwoneraantal": 405111
+  },
+  {
+    "Gemeente": "Noord-Beveland",
+    "CBS": 1695,
+    "Zorgkantoorregio": "Zorgkantoor Zeeland",
+    "Inwoneraantal": 380717
+  },
+  {
+    "Gemeente": "Noordenveld",
+    "CBS": 1699,
+    "Zorgkantoorregio": "Zorgkantoor Drenthe",
+    "Inwoneraantal": 488611
+  },
+  {
+    "Gemeente": "Noordoostpolder",
+    "CBS": "0171",
+    "Zorgkantoorregio": "Zorgkantoor Flevoland",
+    "Inwoneraantal": 204567
+  },
+  {
+    "Gemeente": "Noordwijk",
+    "CBS": "0575",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Holland Noord",
+    "Inwoneraantal": 549589
+  },
+  {
+    "Gemeente": "Nordeast-Fryslân",
+    "CBS": 1970,
+    "Zorgkantoorregio": "Zorgkantoor Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Nuenen, Gerwen en Nederwetten",
+    "CBS": "0820",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Oost Brabant",
+    "Inwoneraantal": 752485
+  },
+  {
+    "Gemeente": "Nunspeet",
+    "CBS": "0302",
+    "Zorgkantoorregio": "Zorgkantoor Zwolle",
+    "Inwoneraantal": 542425
+  },
+  {
+    "Gemeente": "Oegstgeest",
+    "CBS": "0579",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Holland Noord",
+    "Inwoneraantal": 549589
+  },
+  {
+    "Gemeente": "Oirschot",
+    "CBS": "0823",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Oost Brabant",
+    "Inwoneraantal": 752485
+  },
+  {
+    "Gemeente": "Oisterwijk",
+    "CBS": "0824",
+    "Zorgkantoorregio": "Zorgkantoor Midden-Brabant",
+    "Inwoneraantal": 439653
+  },
+  {
+    "Gemeente": "Oldambt",
+    "CBS": 1895,
+    "Zorgkantoorregio": "Zorgkantoor Groningen",
+    "Inwoneraantal": 584104
+  },
+  {
+    "Gemeente": "Oldebroek",
+    "CBS": "0269",
+    "Zorgkantoorregio": "Zorgkantoor Zwolle",
+    "Inwoneraantal": 542425
+  },
+  {
+    "Gemeente": "Oldenzaal",
+    "CBS": "0173",
+    "Zorgkantoorregio": "Zorgkantoor Twente",
+    "Inwoneraantal": 626009
+  },
+  {
+    "Gemeente": "Olst-Wijhe",
+    "CBS": 1773,
+    "Zorgkantoorregio": "Zorgkantoor Midden-IJssel",
+    "Inwoneraantal": 176858
+  },
+  {
+    "Gemeente": "Ommen",
+    "CBS": "0175",
+    "Zorgkantoorregio": "Zorgkantoor Zwolle",
+    "Inwoneraantal": 542425
+  },
+  {
+    "Gemeente": "Oost Gelre",
+    "CBS": 1586,
+    "Zorgkantoorregio": "Zorgkantoor Arnhem",
+    "Inwoneraantal": 927793
+  },
+  {
+    "Gemeente": "Oosterhout",
+    "CBS": "0826",
+    "Zorgkantoorregio": "Zorgkantoor West-Brabant",
+    "Inwoneraantal": 694612
+  },
+  {
+    "Gemeente": "Ooststellingwerf",
+    "CBS": "0085",
+    "Zorgkantoorregio": "Zorgkantoor Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Oostzaan",
+    "CBS": "0431",
+    "Zorgkantoorregio": "Zorgkantoor Zaanstreek / Waterland",
+    "Inwoneraantal": 328233
+  },
+  {
+    "Gemeente": "Opmeer",
+    "CBS": "0432",
+    "Zorgkantoorregio": "Zorgkantoor Noord-Holland Noord",
+    "Inwoneraantal": 612627
+  },
+  {
+    "Gemeente": "Opsterland",
+    "CBS": "0086",
+    "Zorgkantoorregio": "Zorgkantoor Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Oss",
+    "CBS": "0828",
+    "Zorgkantoorregio": "Zorgkantoor Noord-Oost Brabant",
+    "Inwoneraantal": 654115
+  },
+  {
+    "Gemeente": "Oude IJsselstreek",
+    "CBS": 1509,
+    "Zorgkantoorregio": "Zorgkantoor Arnhem",
+    "Inwoneraantal": 927793
+  },
+  {
+    "Gemeente": "Ouder-Amstel",
+    "CBS": "0437",
+    "Zorgkantoorregio": "Zorgkantoor Amstelland en De Meerlanden",
+    "Inwoneraantal": 304385
+  },
+  {
+    "Gemeente": "Oudewater",
+    "CBS": "0589",
+    "Zorgkantoorregio": "Zorgkantoor Utrecht",
+    "Inwoneraantal": 1308712
+  },
+  {
+    "Gemeente": "Overbetuwe",
+    "CBS": 1734,
+    "Zorgkantoorregio": "Zorgkantoor Arnhem",
+    "Inwoneraantal": 927793
+  },
+  {
+    "Gemeente": "Papendrecht",
+    "CBS": "0590",
+    "Zorgkantoorregio": "Zorgkantoor Waardenland",
+    "Inwoneraantal": 400351
+  },
+  {
+    "Gemeente": "Peel en Maas",
+    "CBS": 1894,
+    "Zorgkantoorregio": "Zorgkantoor Noord- en Midden-Limburg",
+    "Inwoneraantal": 490976
+  },
+  {
+    "Gemeente": "Pekela",
+    "CBS": "0765",
+    "Zorgkantoorregio": "Zorgkantoor Groningen",
+    "Inwoneraantal": 584104
+  },
+  {
+    "Gemeente": "Pijnacker-Nootdorp",
+    "CBS": 1926,
+    "Zorgkantoorregio": "Zorgkantoor Westland Schieland Delfland",
+    "Inwoneraantal": 333377
+  },
+  {
+    "Gemeente": "Purmerend",
+    "CBS": "0439",
+    "Zorgkantoorregio": "Zorgkantoor Zaanstreek / Waterland",
+    "Inwoneraantal": 328233
+  },
+  {
+    "Gemeente": "Putten",
+    "CBS": "0273",
+    "Zorgkantoorregio": "Zorgkantoor Zwolle",
+    "Inwoneraantal": 542425
+  },
+  {
+    "Gemeente": "Raalte",
+    "CBS": "0177",
+    "Zorgkantoorregio": "Zorgkantoor Midden-IJssel",
+    "Inwoneraantal": 176858
+  },
+  {
+    "Gemeente": "Reimerswaal",
+    "CBS": "0703",
+    "Zorgkantoorregio": "Zorgkantoor Zeeland",
+    "Inwoneraantal": 380717
+  },
+  {
+    "Gemeente": "Renkum",
+    "CBS": "0274",
+    "Zorgkantoorregio": "Zorgkantoor Arnhem",
+    "Inwoneraantal": 927793
+  },
+  {
+    "Gemeente": "Renswoude",
+    "CBS": "0339",
+    "Zorgkantoorregio": "Zorgkantoor Utrecht",
+    "Inwoneraantal": 1308712
+  },
+  {
+    "Gemeente": "Reusel-De Mierden",
+    "CBS": 1667,
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Oost Brabant",
+    "Inwoneraantal": 752485
+  },
+  {
+    "Gemeente": "Rheden",
+    "CBS": "0275",
+    "Zorgkantoorregio": "Zorgkantoor Arnhem",
+    "Inwoneraantal": 927793
+  },
+  {
+    "Gemeente": "Rhenen",
+    "CBS": "0340",
+    "Zorgkantoorregio": "Zorgkantoor Utrecht",
+    "Inwoneraantal": 1308712
+  },
+  {
+    "Gemeente": "Ridderkerk",
+    "CBS": "0597",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Hollandse Eilanden",
+    "Inwoneraantal": 405111
+  },
+  {
+    "Gemeente": "Rijssen-Holten",
+    "CBS": 1742,
+    "Zorgkantoorregio": "Zorgkantoor Twente",
+    "Inwoneraantal": 626009
+  },
+  {
+    "Gemeente": "Rijswijk",
+    "CBS": "0603",
+    "Zorgkantoorregio": "Zorgkantoor Haaglanden",
+    "Inwoneraantal": 786612
+  },
+  {
+    "Gemeente": "Roerdalen",
+    "CBS": 1669,
+    "Zorgkantoorregio": "Zorgkantoor Noord- en Midden-Limburg",
+    "Inwoneraantal": 490976
+  },
+  {
+    "Gemeente": "Roermond",
+    "CBS": "0957",
+    "Zorgkantoorregio": "Zorgkantoor Noord- en Midden-Limburg",
+    "Inwoneraantal": 490976
+  },
+  {
+    "Gemeente": "Roosendaal",
+    "CBS": 1674,
+    "Zorgkantoorregio": "Zorgkantoor West-Brabant",
+    "Inwoneraantal": 694612
+  },
+  {
+    "Gemeente": "Rotterdam",
+    "CBS": "0599",
+    "Zorgkantoorregio": "Zorgkantoor Rotterdam",
+    "Inwoneraantal": 720119
+  },
+  {
+    "Gemeente": "Rozendaal",
+    "CBS": "0277",
+    "Zorgkantoorregio": "Zorgkantoor Arnhem",
+    "Inwoneraantal": 927793
+  },
+  {
+    "Gemeente": "Rucphen",
+    "CBS": "0840",
+    "Zorgkantoorregio": "Zorgkantoor West-Brabant",
+    "Inwoneraantal": 694612
+  },
+  {
+    "Gemeente": "Schagen",
+    "CBS": "0441",
+    "Zorgkantoorregio": "Zorgkantoor Noord-Holland Noord",
+    "Inwoneraantal": 612627
+  },
+  {
+    "Gemeente": "Scherpenzeel",
+    "CBS": "0279",
+    "Zorgkantoorregio": "Zorgkantoor Arnhem",
+    "Inwoneraantal": 927793
+  },
+  {
+    "Gemeente": "Schiedam",
+    "CBS": "0606",
+    "Zorgkantoorregio": "Zorgkantoor Nieuwe Waterweg Noord",
+    "Inwoneraantal": 180706
+  },
+  {
+    "Gemeente": "Schiermonnikoog",
+    "CBS": "0088",
+    "Zorgkantoorregio": "Zorgkantoor Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Schouwen-Duiveland",
+    "CBS": 1676,
+    "Zorgkantoorregio": "Zorgkantoor Zeeland",
+    "Inwoneraantal": 380717
+  },
+  {
+    "Gemeente": "Simpelveld",
+    "CBS": "0965",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Limburg",
+    "Inwoneraantal": 602040
+  },
+  {
+    "Gemeente": "Sint Anthonis",
+    "CBS": 1702,
+    "Zorgkantoorregio": "Zorgkantoor Noord-Oost Brabant",
+    "Inwoneraantal": 654115
+  },
+  {
+    "Gemeente": "Sint-Michielsgestel",
+    "CBS": "0845",
+    "Zorgkantoorregio": "Zorgkantoor Noord-Oost Brabant",
+    "Inwoneraantal": 654115
+  },
+  {
+    "Gemeente": "Sittard-Geleen",
+    "CBS": 1883,
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Limburg",
+    "Inwoneraantal": 602040
+  },
+  {
+    "Gemeente": "Sliedrecht",
+    "CBS": "0610",
+    "Zorgkantoorregio": "Zorgkantoor Waardenland",
+    "Inwoneraantal": 400351
+  },
+  {
+    "Gemeente": "Sluis",
+    "CBS": 1714,
+    "Zorgkantoorregio": "Zorgkantoor Zeeland",
+    "Inwoneraantal": 380717
+  },
+  {
+    "Gemeente": "Smallingerland",
+    "CBS": "0090",
+    "Zorgkantoorregio": "Zorgkantoor Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Soest",
+    "CBS": "0342",
+    "Zorgkantoorregio": "Zorgkantoor Utrecht",
+    "Inwoneraantal": 1308712
+  },
+  {
+    "Gemeente": "Someren",
+    "CBS": "0847",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Oost Brabant",
+    "Inwoneraantal": 752485
+  },
+  {
+    "Gemeente": "Son en Breugel",
+    "CBS": "0848",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Oost Brabant",
+    "Inwoneraantal": 752485
+  },
+  {
+    "Gemeente": "Stadskanaal",
+    "CBS": "0037",
+    "Zorgkantoorregio": "Zorgkantoor Groningen",
+    "Inwoneraantal": 584104
+  },
+  {
+    "Gemeente": "Staphorst",
+    "CBS": "0180",
+    "Zorgkantoorregio": "Zorgkantoor Zwolle",
+    "Inwoneraantal": 542425
+  },
+  {
+    "Gemeente": "Stede Broec",
+    "CBS": "0532",
+    "Zorgkantoorregio": "Zorgkantoor Noord-Holland Noord",
+    "Inwoneraantal": 612627
+  },
+  {
+    "Gemeente": "Steenbergen",
+    "CBS": "0851",
+    "Zorgkantoorregio": "Zorgkantoor West-Brabant",
+    "Inwoneraantal": 694612
+  },
+  {
+    "Gemeente": "Steenwijkerland",
+    "CBS": 1708,
+    "Zorgkantoorregio": "Zorgkantoor Zwolle",
+    "Inwoneraantal": 542425
+  },
+  {
+    "Gemeente": "Stein",
+    "CBS": "0971",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Limburg",
+    "Inwoneraantal": 602040
+  },
+  {
+    "Gemeente": "Stichtse Vecht",
+    "CBS": 1904,
+    "Zorgkantoorregio": "Zorgkantoor Utrecht",
+    "Inwoneraantal": 1308712
+  },
+  {
+    "Gemeente": "Súdwest Fryslân",
+    "CBS": 1900,
+    "Zorgkantoorregio": "Zorgkantoor Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Terneuzen",
+    "CBS": "0715",
+    "Zorgkantoorregio": "Zorgkantoor Zeeland",
+    "Inwoneraantal": 380717
+  },
+  {
+    "Gemeente": "Terschelling",
+    "CBS": "0093",
+    "Zorgkantoorregio": "Zorgkantoor Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Texel",
+    "CBS": "0448",
+    "Zorgkantoorregio": "Zorgkantoor Noord-Holland Noord",
+    "Inwoneraantal": 612627
+  },
+  {
+    "Gemeente": "Teylingen",
+    "CBS": 1525,
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Holland Noord",
+    "Inwoneraantal": 549589
+  },
+  {
+    "Gemeente": "Tholen",
+    "CBS": "0716",
+    "Zorgkantoorregio": "Zorgkantoor Zeeland",
+    "Inwoneraantal": 380717
+  },
+  {
+    "Gemeente": "Tiel",
+    "CBS": "0281",
+    "Zorgkantoorregio": "Zorgkantoor Nijmegen",
+    "Inwoneraantal": 516743
+  },
+  {
+    "Gemeente": "Tilburg",
+    "CBS": "0855",
+    "Zorgkantoorregio": "Zorgkantoor Midden-Brabant",
+    "Inwoneraantal": 439653
+  },
+  {
+    "Gemeente": "Tubbergen",
+    "CBS": "0183",
+    "Zorgkantoorregio": "Zorgkantoor Twente",
+    "Inwoneraantal": 626009
+  },
+  {
+    "Gemeente": "Twenterand",
+    "CBS": 1700,
+    "Zorgkantoorregio": "Zorgkantoor Twente",
+    "Inwoneraantal": 626009
+  },
+  {
+    "Gemeente": "Tynaarlo",
+    "CBS": 1730,
+    "Zorgkantoorregio": "Zorgkantoor Drenthe",
+    "Inwoneraantal": 488611
+  },
+  {
+    "Gemeente": "Tytsjerksteradiel",
+    "CBS": "0737",
+    "Zorgkantoorregio": "Zorgkantoor Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Uden",
+    "CBS": "0856",
+    "Zorgkantoorregio": "Zorgkantoor Noord-Oost Brabant",
+    "Inwoneraantal": 654115
+  },
+  {
+    "Gemeente": "Uitgeest",
+    "CBS": "0450",
+    "Zorgkantoorregio": "Zorgkantoor Kennemerland",
+    "Inwoneraantal": 421773
+  },
+  {
+    "Gemeente": "Uithoorn",
+    "CBS": "0451",
+    "Zorgkantoorregio": "Zorgkantoor Amstelland en De Meerlanden",
+    "Inwoneraantal": 304385
+  },
+  {
+    "Gemeente": "Urk",
+    "CBS": "0184",
+    "Zorgkantoorregio": "Zorgkantoor Flevoland",
+    "Inwoneraantal": 204567
+  },
+  {
+    "Gemeente": "Utrecht",
+    "CBS": "0344",
+    "Zorgkantoorregio": "Zorgkantoor Utrecht",
+    "Inwoneraantal": 1308712
+  },
+  {
+    "Gemeente": "Utrechtse Heuvelrug",
+    "CBS": 1581,
+    "Zorgkantoorregio": "Zorgkantoor Utrecht",
+    "Inwoneraantal": 1308712
+  },
+  {
+    "Gemeente": "Vaals",
+    "CBS": "0981",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Limburg",
+    "Inwoneraantal": 602040
+  },
+  {
+    "Gemeente": "Valkenburg aan de Geul",
+    "CBS": "0994",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Limburg",
+    "Inwoneraantal": 602040
+  },
+  {
+    "Gemeente": "Valkenswaard",
+    "CBS": "0858",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Oost Brabant",
+    "Inwoneraantal": 752485
+  },
+  {
+    "Gemeente": "Veendam",
+    "CBS": "0047",
+    "Zorgkantoorregio": "Zorgkantoor Groningen",
+    "Inwoneraantal": 584104
+  },
+  {
+    "Gemeente": "Veenendaal",
+    "CBS": "0345",
+    "Zorgkantoorregio": "Zorgkantoor Utrecht",
+    "Inwoneraantal": 1308712
+  },
+  {
+    "Gemeente": "Veere",
+    "CBS": "0717",
+    "Zorgkantoorregio": "Zorgkantoor Zeeland",
+    "Inwoneraantal": 380717
+  },
+  {
+    "Gemeente": "Veldhoven",
+    "CBS": "0861",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Oost Brabant",
+    "Inwoneraantal": 752485
+  },
+  {
+    "Gemeente": "Velsen",
+    "CBS": "0453",
+    "Zorgkantoorregio": "Zorgkantoor Kennemerland",
+    "Inwoneraantal": 421773
+  },
+  {
+    "Gemeente": "Venlo",
+    "CBS": "0983",
+    "Zorgkantoorregio": "Zorgkantoor Noord- en Midden-Limburg",
+    "Inwoneraantal": 490976
+  },
+  {
+    "Gemeente": "Venray",
+    "CBS": "0984",
+    "Zorgkantoorregio": "Zorgkantoor Noord- en Midden-Limburg",
+    "Inwoneraantal": 490976
+  },
+  {
+    "Gemeente": "Vijfheerenlanden",
+    "CBS": 1961,
+    "Zorgkantoorregio": "Zorgkantoor Waardenland",
+    "Inwoneraantal": 400351
+  },
+  {
+    "Gemeente": "Vlaardingen",
+    "CBS": "0622",
+    "Zorgkantoorregio": "Zorgkantoor Nieuwe Waterweg Noord",
+    "Inwoneraantal": 180706
+  },
+  {
+    "Gemeente": "Vlieland",
+    "CBS": "0096",
+    "Zorgkantoorregio": "Zorgkantoor Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Vlissingen",
+    "CBS": "0718",
+    "Zorgkantoorregio": "Zorgkantoor Zeeland",
+    "Inwoneraantal": 380717
+  },
+  {
+    "Gemeente": "Voerendaal",
+    "CBS": "0986",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Limburg",
+    "Inwoneraantal": 602040
+  },
+  {
+    "Gemeente": "Voorschoten",
+    "CBS": "0626",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Holland Noord",
+    "Inwoneraantal": 549589
+  },
+  {
+    "Gemeente": "Voorst",
+    "CBS": "0285",
+    "Zorgkantoorregio": "Zorgkantoor Midden-IJssel",
+    "Inwoneraantal": 176858
+  },
+  {
+    "Gemeente": "Vught",
+    "CBS": "0865",
+    "Zorgkantoorregio": "Zorgkantoor Noord-Oost Brabant",
+    "Inwoneraantal": 654115
+  },
+  {
+    "Gemeente": "Waadhoeke",
+    "CBS": 1949,
+    "Zorgkantoorregio": "Zorgkantoor Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Waalre",
+    "CBS": "0866",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Oost Brabant",
+    "Inwoneraantal": 752485
+  },
+  {
+    "Gemeente": "Waalwijk",
+    "CBS": "0867",
+    "Zorgkantoorregio": "Zorgkantoor Midden-Brabant",
+    "Inwoneraantal": 439653
+  },
+  {
+    "Gemeente": "Waddinxveen",
+    "CBS": "0627",
+    "Zorgkantoorregio": "Zorgkantoor Midden-Holland",
+    "Inwoneraantal": 224887
+  },
+  {
+    "Gemeente": "Wageningen",
+    "CBS": "0289",
+    "Zorgkantoorregio": "Zorgkantoor Arnhem",
+    "Inwoneraantal": 927793
+  },
+  {
+    "Gemeente": "Wassenaar",
+    "CBS": "0629",
+    "Zorgkantoorregio": "Zorgkantoor Haaglanden",
+    "Inwoneraantal": 786612
+  },
+  {
+    "Gemeente": "Waterland",
+    "CBS": "0852",
+    "Zorgkantoorregio": "Zorgkantoor Zaanstreek / Waterland",
+    "Inwoneraantal": 328233
+  },
+  {
+    "Gemeente": "Weert",
+    "CBS": "0988",
+    "Zorgkantoorregio": "Zorgkantoor Noord- en Midden-Limburg",
+    "Inwoneraantal": 490976
+  },
+  {
+    "Gemeente": "Weesp",
+    "CBS": "0457",
+    "Zorgkantoorregio": "Zorgkantoor 't Gooi",
+    "Inwoneraantal": 452283
+  },
+  {
+    "Gemeente": "West Betuwe",
+    "CBS": 1960,
+    "Zorgkantoorregio": "Zorgkantoor Nijmegen",
+    "Inwoneraantal": 516743
+  },
+  {
+    "Gemeente": "West Maas en Waal",
+    "CBS": "0668",
+    "Zorgkantoorregio": "Zorgkantoor Nijmegen",
+    "Inwoneraantal": 516743
+  },
+  {
+    "Gemeente": "Westerkwartier",
+    "CBS": 1969,
+    "Zorgkantoorregio": "Zorgkantoor Groningen",
+    "Inwoneraantal": 584104
+  },
+  {
+    "Gemeente": "Westerveld",
+    "CBS": 1701,
+    "Zorgkantoorregio": "Zorgkantoor Drenthe",
+    "Inwoneraantal": 488611
+  },
+  {
+    "Gemeente": "Westervoort",
+    "CBS": "0293",
+    "Zorgkantoorregio": "Zorgkantoor Arnhem",
+    "Inwoneraantal": 927793
+  },
+  {
+    "Gemeente": "Westerwolde",
+    "CBS": 1950,
+    "Zorgkantoorregio": "Zorgkantoor Groningen",
+    "Inwoneraantal": 584104
+  },
+  {
+    "Gemeente": "Westland",
+    "CBS": 1783,
+    "Zorgkantoorregio": "Zorgkantoor Westland Schieland Delfland",
+    "Inwoneraantal": 333377
+  },
+  {
+    "Gemeente": "Weststellingwerf",
+    "CBS": "0098",
+    "Zorgkantoorregio": "Zorgkantoor Friesland",
+    "Inwoneraantal": 646324
+  },
+  {
+    "Gemeente": "Westvoorne",
+    "CBS": "0614",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Hollandse Eilanden",
+    "Inwoneraantal": 405111
+  },
+  {
+    "Gemeente": "Wierden",
+    "CBS": "0189",
+    "Zorgkantoorregio": "Zorgkantoor Twente",
+    "Inwoneraantal": 626009
+  },
+  {
+    "Gemeente": "Wijchen",
+    "CBS": "0296",
+    "Zorgkantoorregio": "Zorgkantoor Nijmegen",
+    "Inwoneraantal": 516743
+  },
+  {
+    "Gemeente": "Wijdemeren",
+    "CBS": 1696,
+    "Zorgkantoorregio": "Zorgkantoor 't Gooi",
+    "Inwoneraantal": 452283
+  },
+  {
+    "Gemeente": "Wijk bij Duurstede",
+    "CBS": "0352",
+    "Zorgkantoorregio": "Zorgkantoor Utrecht",
+    "Inwoneraantal": 1308712
+  },
+  {
+    "Gemeente": "Winterswijk",
+    "CBS": "0294",
+    "Zorgkantoorregio": "Zorgkantoor Arnhem",
+    "Inwoneraantal": 927793
+  },
+  {
+    "Gemeente": "Woensdrecht",
+    "CBS": "0873",
+    "Zorgkantoorregio": "Zorgkantoor West-Brabant",
+    "Inwoneraantal": 694612
+  },
+  {
+    "Gemeente": "Woerden",
+    "CBS": "0632",
+    "Zorgkantoorregio": "Zorgkantoor Utrecht",
+    "Inwoneraantal": 1308712
+  },
+  {
+    "Gemeente": "Wormerland",
+    "CBS": "0880",
+    "Zorgkantoorregio": "Zorgkantoor Zaanstreek / Waterland",
+    "Inwoneraantal": 328233
+  },
+  {
+    "Gemeente": "Woudenberg",
+    "CBS": "0351",
+    "Zorgkantoorregio": "Zorgkantoor Utrecht",
+    "Inwoneraantal": 1308712
+  },
+  {
+    "Gemeente": "Zaanstad",
+    "CBS": "0479",
+    "Zorgkantoorregio": "Zorgkantoor Zaanstreek / Waterland",
+    "Inwoneraantal": 328233
+  },
+  {
+    "Gemeente": "Zaltbommel",
+    "CBS": "0297",
+    "Zorgkantoorregio": "Zorgkantoor Noord-Oost Brabant",
+    "Inwoneraantal": 654115
+  },
+  {
+    "Gemeente": "Zandvoort",
+    "CBS": "0473",
+    "Zorgkantoorregio": "Zorgkantoor Kennemerland",
+    "Inwoneraantal": 421773
+  },
+  {
+    "Gemeente": "Zeewolde",
+    "CBS": "0050",
+    "Zorgkantoorregio": "Zorgkantoor Flevoland",
+    "Inwoneraantal": 204567
+  },
+  {
+    "Gemeente": "Zeist",
+    "CBS": "0355",
+    "Zorgkantoorregio": "Zorgkantoor Utrecht",
+    "Inwoneraantal": 1308712
+  },
+  {
+    "Gemeente": "Zevenaar",
+    "CBS": "0299",
+    "Zorgkantoorregio": "Zorgkantoor Arnhem",
+    "Inwoneraantal": 927793
+  },
+  {
+    "Gemeente": "Zoetermeer",
+    "CBS": "0637",
+    "Zorgkantoorregio": "Zorgkantoor Haaglanden",
+    "Inwoneraantal": 786612
+  },
+  {
+    "Gemeente": "Zoeterwoude",
+    "CBS": "0638",
+    "Zorgkantoorregio": "Zorgkantoor Zuid-Holland Noord",
+    "Inwoneraantal": 549589
+  },
+  {
+    "Gemeente": "Zuidplas",
+    "CBS": 1892,
+    "Zorgkantoorregio": "Zorgkantoor Midden-Holland",
+    "Inwoneraantal": 224887
+  },
+  {
+    "Gemeente": "Zundert",
+    "CBS": "0879",
+    "Zorgkantoorregio": "Zorgkantoor West-Brabant",
+    "Inwoneraantal": 694612
+  },
+  {
+    "Gemeente": "Zutphen",
+    "CBS": "0301",
+    "Zorgkantoorregio": "Zorgkantoor Apeldoorn / Zutphen",
+    "Inwoneraantal": 309859
+  },
+  {
+    "Gemeente": "Zwartewaterland",
+    "CBS": 1896,
+    "Zorgkantoorregio": "Zorgkantoor Zwolle",
+    "Inwoneraantal": 542425
+  },
+  {
+    "Gemeente": "Zwijndrecht",
+    "CBS": "0642",
+    "Zorgkantoorregio": "Zorgkantoor Waardenland",
+    "Inwoneraantal": 400351
+  },
+  {
+    "Gemeente": "Zwolle",
+    "CBS": "0193",
+    "Zorgkantoorregio": "Zorgkantoor Zwolle",
+    "Inwoneraantal": 542425
+  }
+]
