@@ -2,24 +2,29 @@ import React, {Component} from 'react';
 import * as d3 from "d3";
 const healthRegionData = require('../data/zorgkantoor_regios.json');
 
-const distinctRegios = [...new Set(healthRegionData.map(d => d.Zorgkantoorregio))];
+// Get Unique region values from healthRegionData
+const distinctRegions = [];
+const map = new Map();
+for (const d of healthRegionData) {
+  if(!map.has(d.Zorgkantoorregio)) {
+    map.set(d.Zorgkantoorregio, true);
+    distinctRegions.push({regio: d.Zorgkantoorregio})
+  }
+}
+
 
 let regioData = [];
-distinctRegios.map((d, i) => {
+distinctRegions.map((d, i) => {
   regioData[i] = [];
   return healthRegionData.reduce((previous, d) => {
-    if (previous === d.Zorgkantoorregio) {
+    if (previous.regio === d.Zorgkantoorregio) {
       regioData[i].push({Regio: d.Zorgkantoorregio, Gemeente: d.Gemeente});
     }
     return previous;
   },d);
 });
 
-
-
-
 export class Regios extends Component {
-
   handleClick(e) {
     console.log(regioData);
   };
@@ -27,45 +32,62 @@ export class Regios extends Component {
   componentDidMount() {
     const svg = d3.select('svg#svg');
 
-    const width = 1000, height = 800;
+    const width = 1000, height = 1000;
+    const centerX = width / 2;
+    const centerY = height /2;
+    const circleRadius = 400;
     svg.attr('width', width)
     .attr('height', height);
 
     const myColor = d3.scaleOrdinal()
-    .domain(distinctRegios)
+    .domain(distinctRegions)
     .range(d3.schemeCategory10);
 
-    const arrValue = 2000 / distinctRegios.length;
-    const categorienPosities = [];
-    distinctRegios.map((d, i) => {
-      categorienPosities.push({regio: d, value: i * arrValue});
+    // Calculate the angle index in degrees
+    const newAngle = 360 / healthRegionData.length;
+    console.log(newAngle);
+    distinctRegions.map((d,i) => {
+      let instances = regioData[i].length;
+      d.instances = instances;
+      d.angleCalc = newAngle * instances;
     });
+    console.log(distinctRegions);
 
-    console.log(categorienPosities);
+    // Calculate the angle index in degrees
+    const angle = 360 / distinctRegions.length;
 
-    const xCenter = healthRegionData.map((d,i) => {
-      categorienPosities.map((e, i) => {
+    distinctRegions.reduce((previous, d, i) => {
+      let circleCoord = previous+d.angleCalc;
+      let spaceCompensation = circleCoord - (d.angleCalc/2);
+      let sin = Math.sin(spaceCompensation * Math.PI /180);
+      let cos = Math.cos(spaceCompensation * Math.PI /180);
+      // SOH: Sin = Op / Hy --> SIN = Opposite / Hypotenuse;
+      // Sin = angleCalc, Opposite = ?, Hypotenuse = circleRadius;
+      // More info check this beauty: https://www.youtube.com/watch?v=bSM7RNSbWhM
+      // centerX is because our SVG calcs from top-corner = 0, top-left = 0
+      d.coordX = sin* circleRadius+centerX;
+      d.coordY = cos* circleRadius+centerX;
+      return previous+d.angleCalc;
+    },0);
+    console.log(distinctRegions);
+
+    // Circular view
+    healthRegionData.map((d,i) => {
+      distinctRegions.map((e, i) => {
         if (e.regio === d.Zorgkantoorregio) {
-          d.pos = e.value;
+          d.posX = e.coordX;
+          d.posY = e.coordY;
          }
       });
     })
 
-    console.log(healthRegionData);
-
     const simulation = d3.forceSimulation(healthRegionData)
     .force('charge', d3.forceManyBody().strength(5))
-    .force('x', d3.forceX().x(d => d.pos))
-    .force('y', d3.forceY().y(200))
+    .force('x', d3.forceX().x(d => d.posX))
+    .force('y', d3.forceY().y(d => d.posY))
     // .force('center', d3.forceCenter(width / 2, height / 2))
-    .force('collision', d3.forceCollide().radius(d => d.Inwoneraantal/100000))
+    .force('collision', d3.forceCollide().radius(6))
     .on('tick', ticked);
-
-
-
-    // simulation.force('x', d3.forceX().x(function(d) {
-    //   return xCenter[d.Zorgkantoorregio];
-    // }));
 
     function ticked() {
       const u = d3.select('svg')
@@ -74,28 +96,20 @@ export class Regios extends Component {
 
       u.enter()
         .append('circle')
-        .attr('r', d => d.Inwoneraantal/100000)
+        .attr('r', 5)
         .merge(u)
         .attr('cx', d => d.x)
         .attr('cy', d => d.y)
         .style("fill", d => myColor(d.Zorgkantoorregio))
-        .attr('stroke-width', '2')
+        .attr('class', d => d.Zorgkantoorregio)
 
       u.exit().remove()
     }
 
-
   };
 
-
-
   render() {
-    console.log(healthRegionData);
-    console.log(regioData);
     // Make healthRegionData usefull -->  regioData
-
-
-
     return (
       <div className="main">
         <button
